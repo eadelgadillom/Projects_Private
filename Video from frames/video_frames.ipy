@@ -1,0 +1,32 @@
+import cv2
+import os   
+
+# Folder con imagenes
+fold_img = r"D:\Edifica\PROYECTOS\Celdas Convectivas\Proyecto_qgis\Celdas_convectivas\frames\Origin"  # Agrega 'r' al principio para tratar la cadena como una cadena cruda
+
+# Frames
+frames = os.listdir(fold_img)
+img_array = []
+
+# Características video
+video = None
+
+for i in range(len(frames)):
+    nomArchivo = frames[i]
+    dirArchivo = os.path.join(fold_img, nomArchivo)
+    img = cv2.imread(dirArchivo)
+    img_array.append(img)
+
+    # Obtener dimensiones de la imagen dentro del bucle
+    height, width = img.shape[:2]
+
+    # Inicializar el video una vez que se obtengan las dimensiones
+    if video is None:
+        video = cv2.VideoWriter("Original_travel.avi", cv2.VideoWriter_fourcc(*"DIVX"), 4, (width, height))
+
+    # Colocar los frames en el video
+    video.write(img)
+
+# liberar
+if video is not None:
+    video.release()
