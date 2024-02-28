@@ -1,0 +1,157 @@
+%All the packages the project needs
+%--------------------------------------------
+%Margins
+\usepackage[top=2cm,
+bottom=2cm,
+left=1.6cm,
+right=1.6cm,
+headsep=15pt,
+headheight=25pt,
+letterpaper,
+includehead,includefoot]{geometry} 
+%-------------------------------------------
+
+%-------------------------------------------
+%Codification and language
+%Document language
+\usepackage[spanish,es-noshorthands]{babel}
+% Required for including letters with accents
+\usepackage[utf8]{inputenc} 
+% Use 8-bit encoding that has 256 glyphs
+\usepackage[T1]{fontenc}
+%-------------------------------------------
+
+%-------------------------------------------
+%Colours
+\usepackage{color}
+%\usepackage{xcolor}
+
+
+%-------------------------------------------
+
+%-------------------------------------------
+%Fonts and text
+%Add a new Font
+\usepackage{addfont}
+\addfont{OT1}{rsfs10}{\rsfs}
+%Allows to modify the font of a section
+\usepackage{sectsty}
+%Latin Modern fonts - Allows to resize the font
+\usepackage{lmodern}
+%Allows to write code
+\usepackage{verbatim}
+%Dumb text
+\usepackage{lipsum}
+%Include currency symbols
+\usepackage{textcomp} 
+%-------------------------------------------
+
+%-------------------------------------------
+%Pictures and graphics
+%Allows to include images
+\usepackage{graphicx}
+\usepackage{sidecap}
+%Most powerful image package
+\usepackage{tikz}
+\usetikzlibrary{babel}
+%Sometimes used images packages
+\usepackage{pst-all}
+\usepackage{pstricks}
+%Allows to position figures inside a paragraph
+\usepackage{wrapfig}
+%Information needed
+%https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions
+%-------------------------------------------
+%-------------------------------------------
+%Math packages
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+%Nice cancelations arrows
+\usepackage{cancel}
+%Vector arrows on a character
+\usepackage{esvect}
+%-------------------------------------------
+
+%-------------------------------------------
+%Table and listing packages
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{diagbox}
+\usepackage{listings}
+\usepackage[shortlabels]{enumitem} 
+%Differents images and tables in the same space
+\usepackage{subcaption}
+%Use to places the float at precisely the location in the LaTeX code´and other stuff
+\usepackage{float}
+%Flexible tables
+\usepackage{tabu}
+\usepackage{multicol}
+%-------------------------------------------
+
+%-------------------------------------------
+%Refs and cites
+\usepackage[hidelinks]{hyperref}
+%\usepackage{cite}
+%-------------------------------------------
+
+%-------------------------------------------
+%Boxes
+\usepackage{tcolorbox}
+\usepackage{fancybox}
+\usepackage{colortbl}
+%-------------------------------------------
+
+
+%-------------------------------------------
+%National University of Colombia - Logo
+% Definimos el color del logo
+
+\newgray{ungris}{0.6}
+
+% Dimension del logo 
+
+\newdimen\UNlong
+
+% Genera la U (PsPicture)
+
+\newcommand{\UNU}{
+ 	\pscustom{
+ 		\psline[linearc=0.45]{C-C}(0,1)(0,0)(1.102,0)
+		\psline(1.102,1)(0.92,1)(0.92,0.487)
+		\psline[linearc=0.35](0.92,0.152)(0.553,0.152)(0.153,0.152)(0.153,0.487)
+		\psline(0.153,1)(0,1)
+	\fill[linecolor=ungris,fillstyle=solid,fillcolor=ungris]}}
+
+% Genera la UN
+
+\newcommand{\UNlog}[1]{
+	\UNlong=#1
+	\psset{unit=1\UNlong,linewidth=0.1pt,linecolor=ungris}
+  \begin{pspicture}(-0.1,-0.1)(2.386,1.1)
+ 		\rput(0,0){\UNU}
+		\rput{180}(2.286,1){\UNU}
+	\end{pspicture}
+    }
+% Fin de la definición del logo
+%Rehacer el logo de UN en tikz para que compile en pdflatex
+%-------------------------------------------
+%-------------------------------------------
+%Page style
+\usepackage[usestackEOL]{stackengine}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\newsavebox{\UNl}
+\newsavebox{\UNd}
+\setlength{\headheight}{2.5cm}
+%\savebox{\UNl}{\UNlog{6mm}}
+\savebox{\UNl}{\includegraphics[width=23mm]{images/Escudo_UNAL.jpg}}
+\savebox{\UNd}{\Longstack[l]{Universidad Nacional de Colombia\\Facultad de Ingeniería\\Departamento de Ingeniería Civil y Agrícola\\}}
+\lhead{\usebox{\UNl}\usebox{\UNd}}
+\rhead{\slshape Proyecto Diseño Estructural}
+\cfoot{}
+\rfoot{\thepage}
+%\lfoot{\today}
+\renewcommand{\headrulewidth}{3pt}
+\renewcommand{\footrulewidth}{3pt}
+%-------------------------------------------
