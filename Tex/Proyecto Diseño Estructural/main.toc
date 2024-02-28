@@ -1,0 +1,67 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Descripción del proyecto}{1}{section.1}%
+\contentsline {section}{\numberline {2}Definición de la carga viva}{1}{section.2}%
+\contentsline {section}{\numberline {3}Evaluación de las cargas muertas}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Evaluación carga muerta piso tipo}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Evaluación carga muerta de cubierta}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Evaluación de cargas de la escalera}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Evaluación de cargas de la losa del ascensor}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Peso del piso tipo}{5}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Peso de la cubierta}{6}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Resumen peso del edificio por pisos y peso total}{7}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Evaluación de fuerzas sísmicas}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Amenaza sísmica $\mathbf {A_{a}}$, $\mathbf {A_{v}}$}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Micro Zonificación Sísmica de Bogotá}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Grupo de uso. Coeficiente de importancia}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Periodo de vibración}{8}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Espectro de diseño y Sa}{9}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Cortante en la base}{9}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Distribución vertical de la fuerza sísmica}{10}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Torsión accidental}{10}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Irregularidades en planta, altura y por ausencia de redundancia}{11}{subsection.4.9}%
+\contentsline {subsubsection}{\numberline {4.9.1}Irregularidades en planta}{11}{subsubsection.4.9.1}%
+\contentsline {subsubsection}{\numberline {4.9.2}Irregularidades en la altura}{14}{subsubsection.4.9.2}%
+\contentsline {subsubsection}{\numberline {4.9.3}Irregularidades por ausencia de redundancia}{14}{subsubsection.4.9.3}%
+\contentsline {subsection}{\numberline {4.10}Coeficiente de capacidad de disipación de energía, $R_{0}$}{14}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Capacidad de disipación de energía R}{15}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}Cálculo del período real de la estructura}{15}{subsection.4.12}%
+\contentsline {section}{\numberline {5}Control de la deriva}{16}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Combinaciones de carga para verificación de derivas}{16}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Verificación de derivas}{17}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Cargas muertas y vivas aplicadas en los pórticos}{21}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Carga muerta}{21}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Carga viva}{25}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Análisis y diseño de viguetas}{29}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Carga muerta y viva. Carga mayorada}{29}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Diagramas de carga, cortante y momento de las viguetas}{30}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}Viguetas piso tipo}{30}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2}Viguetas cubierta}{36}{subsubsection.7.2.2}%
+\contentsline {subsubsection}{\numberline {7.2.3}Vigas auxiliares}{42}{subsubsection.7.2.3}%
+\contentsline {subsubsection}{\numberline {7.2.4}Vigas auxiliares piso tipo}{42}{subsubsection.7.2.4}%
+\contentsline {subsubsection}{\numberline {7.2.5}Vigas auxiliares cubierta}{47}{subsubsection.7.2.5}%
+\contentsline {subsection}{\numberline {7.3}Diseño a cortante y diseño a flexión}{51}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Diseño a a flexión de viguetas}{51}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}Diseño a cortante de viguetas}{64}{subsubsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.3}Diseño a a flexión de vigas auxiliares}{74}{subsubsection.7.3.3}%
+\contentsline {subsubsection}{\numberline {7.3.4}Diseño a cortante de vigas auxiliares}{80}{subsubsection.7.3.4}%
+\contentsline {section}{\numberline {8}Análisis y diseño de la escalera}{83}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Losa ascensor}{87}{subsection.8.1}%
+\contentsline {section}{\numberline {9}Análisis estructural para diseño}{90}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Combinaciones de carga para diseño}{90}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}Combinaciones de carga para el diseño de vigas}{90}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}Combinaciones de carga para el diseño de columnas}{90}{subsubsection.9.1.2}%
+\contentsline {section}{\numberline {10}Diseño de vigas}{91}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Diseño a flexión}{91}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Diseño a cortante}{156}{subsection.10.2}%
+\contentsline {section}{\numberline {11}Diseño de columnas}{219}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Diseño a cortante}{228}{subsection.11.1}%
+\contentsline {section}{\numberline {12}Diseño de Zapatas}{231}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Cortante en dos direcciones}{232}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Cortante como viga}{234}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Diseño a flexión}{235}{subsection.12.3}%
+\contentsline {section}{\numberline {13}Viga de amarre}{236}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Criterio de amarre sísmico}{237}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Control de asentamientos diferenciales}{237}{subsection.13.2}%
+\contentsline {subsubsection}{\numberline {13.2.1}Diseño a flexión}{242}{subsubsection.13.2.1}%
+\contentsline {subsubsection}{\numberline {13.2.2}Diseño a cortante}{244}{subsubsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.3}Momentos de empotramiento}{244}{subsection.13.3}%
