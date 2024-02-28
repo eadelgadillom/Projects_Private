@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 17:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1295,8 +1295,89 @@ Package pdftex.def Info: images/Escudo_UNAL.jpg  used on input line 148.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 35.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (main.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+
+
+LaTeX Warning: Label `fig:v VT7 CUB' multiply defined.
+
+
+LaTeX Warning: Label `fig:W V-11 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:Cort V-11 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:Mom V-11 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:W V-12 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:Cort V-12 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:Mom V-12 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:W V-13 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:Cort V-13 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:Mom V-13 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:W V-14 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:Cort V-14 EP' multiply defined.
+
+
+LaTeX Warning: Label `fig:Mom V-14 EP' multiply defined.
+
+
+LaTeX Warning: Label `tab:F VG1 P2 M+' multiply defined.
+
+
+LaTeX Warning: Label `tab:F VG3 P2 M-' multiply defined.
+
+
+LaTeX Warning: Label `tab:F VG4 P2 M-' multiply defined.
+
+
+LaTeX Warning: Label `tab:F VG5 P2 M-' multiply defined.
+
+
+LaTeX Warning: Label `tab:F VG6 P2 M-' multiply defined.
+
+
+LaTeX Warning: Label `tab:F VG7 P2 M-' multiply defined.
+
+
+LaTeX Warning: Label `tab:F VG8 P2 M-' multiply defined.
+
+
+LaTeX Warning: Label `tab:F VG9 P2 M-' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:Momento AP1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:Momento AP1' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
 )
-No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -1317,7 +1398,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
-(C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count453
 \scratchdimen=\dimen426
@@ -1408,10 +1489,11 @@ File: translations-basic-dictionary-spanish.trsl (spanish translation file `tran
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 35.
 Package hyperref Info: Link coloring OFF on input line 35.
+ (main.out) (main.out)
 \@outlinefile=\write8
 \openout8 = `main.out'.
 
-<images/EscudoUN.png, id=43, 202.356pt x 82.8696pt>
+<images/EscudoUN.png, id=307, 202.356pt x 82.8696pt>
 File: images/EscudoUN.png Graphic file (type png)
 <use images/EscudoUN.png>
 Package pdftex.def Info: images/EscudoUN.png  used on input line 44.
@@ -1450,59 +1532,61 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
 Non-PDF special ignored!
 <special> ps:0.8 setlinewidth 0 setgray
-{C:/Users/eduar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/EscudoUN.png>]
-No file main.toc.
-\tf@toc=\write9
-\openout9 = `main.toc'.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.66 \newpage
-              [1]
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 79.
-(C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+{C:/Users/eduar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/EscudoUN.png>] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5.
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 79.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 79.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 5.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 79.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 5.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 79.
+(Font)              <12> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 79.
+(Font)              <8> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 79.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
+(Font)              <6> on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 79.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 5.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+esvect on input line 79.
+LaTeX Font Info:    Trying to load font information for U+esvect on input line 5.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/esvect\uesvect.fd
 File: uesvect.fd 
 )
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 ...iguetas cubierta}{36}{subsubsection.7.2.2}
+                                                  % [1{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}])
+\tf@toc=\write9
+\openout9 = `main.toc'.
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
@@ -1522,24 +1606,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.93 
-      [1{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc} <./images/Escudo_UNAL.jpg>]
+      [1 <./images/Escudo_UNAL.jpg>]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 105.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-
-LaTeX Warning: Reference `tab:CMPT' on page 2 undefined on input line 138.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
-[2{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
 
-LaTeX Warning: Reference `tab:EvaDC' on page 3 undefined on input line 210.
-
-[3]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.159 S
+       e realiza un análisis de los muros perimetrales de la edificación t... [2{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] [3]
 Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
@@ -1553,9 +1634,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 276--277
 Underfull \hbox (badness 10000) in paragraph at lines 278--279
 
  []
-
-
-LaTeX Warning: Reference `tab:evalINCLIN' on page 5 undefined on input line 280.
 
 [5] [6]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1590,22 +1668,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 463.
 
 [7] [8]
-<images/Espectro_aceleraciones_DE.pdf, id=137, 294.34166pt x 256.24936pt>
+<images/Espectro_aceleraciones_DE.pdf, id=458, 294.34166pt x 256.24936pt>
 File: images/Espectro_aceleraciones_DE.pdf Graphic file (type pdf)
 <use images/Espectro_aceleraciones_DE.pdf>
 Package pdftex.def Info: images/Espectro_aceleraciones_DE.pdf  used on input line 516.
 (pdftex.def)             Requested size: 353.2082pt x 307.49767pt.
-
-
-LaTeX Warning: Reference `secc:espectro y sa' on page 9 undefined on input line 524.
-
-
-LaTeX Warning: Reference `tab:ResumenWEd' on page 9 undefined on input line 524.
-
-[9 <./images/Espectro_aceleraciones_DE.pdf>]
-
-LaTeX Warning: Reference `tab:LMAX_TA' on page 10 undefined on input line 570.
-
+ [9 <./images/Espectro_aceleraciones_DE.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1676,115 +1744,104 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 770.
 
-[14]
-
-LaTeX Warning: Reference `eq:CalcT' on page 15 undefined on input line 791.
-
-(Tablas/CALC_T.tex
+[14] (Tablas/CALC_T.tex
 
 LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 52.
 
 
 LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 52.
 
-)
-
-LaTeX Warning: Reference `eq:C_u' on page 15 undefined on input line 794.
-
-
-LaTeX Warning: Reference `tab:CALCT' on page 15 undefined on input line 801.
-
-[15] (Tablas/A1.tex) (Tablas/A4.tex [16]) (Tablas/D1.tex [17]) (Tablas/D4.tex [18]) [19]
-<images/CM 2.0/V1.pdf, id=238, 365.96725pt x 288.67851pt>
+) [15] (Tablas/A1.tex) (Tablas/A4.tex [16]) (Tablas/D1.tex [17]) (Tablas/D4.tex [18]) [19]
+<images/CM 2.0/V1.pdf, id=551, 365.96725pt x 288.67851pt>
 File: images/CM 2.0/V1.pdf Graphic file (type pdf)
 <use images/CM 2.0/V1.pdf>
 Package pdftex.def Info: images/CM 2.0/V1.pdf  used on input line 849.
 (pdftex.def)             Requested size: 274.47476pt x 216.50835pt.
  [20]
-<images/CM 2.0/V2.pdf, id=244, 380.42125pt x 288.67851pt>
+<images/CM 2.0/V2.pdf, id=557, 380.42125pt x 288.67851pt>
 File: images/CM 2.0/V2.pdf Graphic file (type pdf)
 <use images/CM 2.0/V2.pdf>
 Package pdftex.def Info: images/CM 2.0/V2.pdf  used on input line 856.
 (pdftex.def)             Requested size: 285.31522pt x 216.50835pt.
-<images/CM 2.0/V3.pdf, id=245, 380.42125pt x 288.67851pt>
+<images/CM 2.0/V3.pdf, id=558, 380.42125pt x 288.67851pt>
 File: images/CM 2.0/V3.pdf Graphic file (type pdf)
 <use images/CM 2.0/V3.pdf>
 Package pdftex.def Info: images/CM 2.0/V3.pdf  used on input line 863.
 (pdftex.def)             Requested size: 285.31522pt x 216.50835pt.
  [21 <./images/CM 2.0/V1.pdf> <./images/CM 2.0/V2.pdf>]
-<images/CM 2.0/V4.pdf, id=266, 365.96725pt x 288.67851pt>
+<images/CM 2.0/V4.pdf, id=577, 365.96725pt x 288.67851pt>
 File: images/CM 2.0/V4.pdf Graphic file (type pdf)
 <use images/CM 2.0/V4.pdf>
 Package pdftex.def Info: images/CM 2.0/V4.pdf  used on input line 870.
 (pdftex.def)             Requested size: 274.47476pt x 216.50835pt.
-<images/CM 2.0/VA.pdf, id=267, 365.96725pt x 266.9975pt>
+<images/CM 2.0/VA.pdf, id=578, 365.96725pt x 266.9975pt>
 File: images/CM 2.0/VA.pdf Graphic file (type pdf)
 <use images/CM 2.0/VA.pdf>
 Package pdftex.def Info: images/CM 2.0/VA.pdf  used on input line 877.
 (pdftex.def)             Requested size: 274.47476pt x 200.24762pt.
  [22 <./images/CM 2.0/V3.pdf> <./images/CM 2.0/V4.pdf>]
-<images/CM 2.0/VB.pdf, id=286, 365.96725pt x 266.9975pt>
+<images/CM 2.0/VB.pdf, id=598, 365.96725pt x 266.9975pt>
 File: images/CM 2.0/VB.pdf Graphic file (type pdf)
 <use images/CM 2.0/VB.pdf>
 Package pdftex.def Info: images/CM 2.0/VB.pdf  used on input line 884.
 (pdftex.def)             Requested size: 274.47476pt x 200.24762pt.
-<images/CM 2.0/VC.pdf, id=287, 365.96725pt x 266.9975pt>
+<images/CM 2.0/VC.pdf, id=599, 365.96725pt x 266.9975pt>
 File: images/CM 2.0/VC.pdf Graphic file (type pdf)
 <use images/CM 2.0/VC.pdf>
 Package pdftex.def Info: images/CM 2.0/VC.pdf  used on input line 891.
 (pdftex.def)             Requested size: 274.47476pt x 200.24762pt.
  [23 <./images/CM 2.0/VA.pdf> <./images/CM 2.0/VB.pdf>]
-<images/CM 2.0/VD.pdf, id=307, 365.96725pt x 266.9975pt>
+<images/CM 2.0/VD.pdf, id=618, 365.96725pt x 266.9975pt>
 File: images/CM 2.0/VD.pdf Graphic file (type pdf)
 <use images/CM 2.0/VD.pdf>
 Package pdftex.def Info: images/CM 2.0/VD.pdf  used on input line 898.
 (pdftex.def)             Requested size: 274.47476pt x 200.24762pt.
-<images/CV 2.0/V1L.pdf, id=308, 365.96725pt x 288.67851pt>
+<images/CV 2.0/V1L.pdf, id=619, 365.96725pt x 288.67851pt>
 File: images/CV 2.0/V1L.pdf Graphic file (type pdf)
 <use images/CV 2.0/V1L.pdf>
 Package pdftex.def Info: images/CV 2.0/V1L.pdf  used on input line 907.
 (pdftex.def)             Requested size: 274.47476pt x 216.50835pt.
  [24 <./images/CM 2.0/VC.pdf> <./images/CM 2.0/VD.pdf>]
-<images/CV 2.0/V2L.pdf, id=327, 380.42125pt x 288.67851pt>
+<images/CV 2.0/V2L.pdf, id=638, 380.42125pt x 288.67851pt>
 File: images/CV 2.0/V2L.pdf Graphic file (type pdf)
 <use images/CV 2.0/V2L.pdf>
 Package pdftex.def Info: images/CV 2.0/V2L.pdf  used on input line 914.
 (pdftex.def)             Requested size: 285.31522pt x 216.50835pt.
-<images/CV 2.0/V3L.pdf, id=328, 380.42125pt x 288.67851pt>
+<images/CV 2.0/V3L.pdf, id=639, 380.42125pt x 288.67851pt>
 File: images/CV 2.0/V3L.pdf Graphic file (type pdf)
 <use images/CV 2.0/V3L.pdf>
 Package pdftex.def Info: images/CV 2.0/V3L.pdf  used on input line 921.
 (pdftex.def)             Requested size: 285.31522pt x 216.50835pt.
  [25 <./images/CV 2.0/V1L.pdf> <./images/CV 2.0/V2L.pdf>]
-<images/CV 2.0/V4L.pdf, id=348, 365.96725pt x 288.67851pt>
+<images/CV 2.0/V4L.pdf, id=658, 365.96725pt x 288.67851pt>
 File: images/CV 2.0/V4L.pdf Graphic file (type pdf)
 <use images/CV 2.0/V4L.pdf>
 Package pdftex.def Info: images/CV 2.0/V4L.pdf  used on input line 928.
 (pdftex.def)             Requested size: 274.47476pt x 216.50835pt.
-<images/CV 2.0/VAL.pdf, id=349, 365.96725pt x 266.9975pt>
+<images/CV 2.0/VAL.pdf, id=659, 365.96725pt x 266.9975pt>
 File: images/CV 2.0/VAL.pdf Graphic file (type pdf)
 <use images/CV 2.0/VAL.pdf>
 Package pdftex.def Info: images/CV 2.0/VAL.pdf  used on input line 935.
 (pdftex.def)             Requested size: 274.47476pt x 200.24762pt.
  [26 <./images/CV 2.0/V3L.pdf> <./images/CV 2.0/V4L.pdf>]
-<images/CV 2.0/VBL.pdf, id=368, 365.96725pt x 266.9975pt>
+<images/CV 2.0/VBL.pdf, id=678, 365.96725pt x 266.9975pt>
 File: images/CV 2.0/VBL.pdf Graphic file (type pdf)
 <use images/CV 2.0/VBL.pdf>
 Package pdftex.def Info: images/CV 2.0/VBL.pdf  used on input line 942.
 (pdftex.def)             Requested size: 274.47476pt x 200.24762pt.
-<images/CV 2.0/VCL.pdf, id=369, 365.96725pt x 266.9975pt>
+<images/CV 2.0/VCL.pdf, id=679, 365.96725pt x 266.9975pt>
 File: images/CV 2.0/VCL.pdf Graphic file (type pdf)
 <use images/CV 2.0/VCL.pdf>
 Package pdftex.def Info: images/CV 2.0/VCL.pdf  used on input line 949.
 (pdftex.def)             Requested size: 274.47476pt x 200.24762pt.
  [27 <./images/CV 2.0/VAL.pdf> <./images/CV 2.0/VBL.pdf>]
-<images/CV 2.0/VDL.pdf, id=388, 365.96725pt x 266.9975pt>
+<images/CV 2.0/VDL.pdf, id=698, 365.96725pt x 266.9975pt>
 File: images/CV 2.0/VDL.pdf Graphic file (type pdf)
 <use images/CV 2.0/VDL.pdf>
 Package pdftex.def Info: images/CV 2.0/VDL.pdf  used on input line 956.
 (pdftex.def)             Requested size: 274.47476pt x 200.24762pt.
  [28 <./images/CV 2.0/VCL.pdf> <./images/CV 2.0/VDL.pdf>] (VIGUETAS/cargasviguetas.tex) (VIGUETAS/cargaentrepiso.tex [29]) (viguetas.tex
-<images/viguetas/VT1 EP.png, id=416, 442.65375pt x 108.405pt>
+<images/viguetas/VT1 EP.png, id=724, 442.65375pt x 108.405pt>
 File: images/viguetas/VT1 EP.png Graphic file (type png)
 <use images/viguetas/VT1 EP.png>
 Package pdftex.def Info: images/viguetas/VT1 EP.png  used on input line 6.
@@ -1794,18 +1851,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--9
 
  []
 
-<images/viguetas/CORT VT1 EP.png, id=417, 554.07pt x 89.58469pt>
+<images/viguetas/CORT VT1 EP.png, id=725, 554.07pt x 89.58469pt>
 File: images/viguetas/CORT VT1 EP.png Graphic file (type png)
 <use images/viguetas/CORT VT1 EP.png>
 Package pdftex.def Info: images/viguetas/CORT VT1 EP.png  used on input line 13.
 (pdftex.def)             Requested size: 470.91805pt x 76.14049pt.
 [30 <./images/viguetas/VT1 EP.png>]
-<images/viguetas/MOM VT1 EP.png, id=427, 492.33937pt x 97.11281pt>
+<images/viguetas/MOM VT1 EP.png, id=733, 492.33937pt x 97.11281pt>
 File: images/viguetas/MOM VT1 EP.png Graphic file (type png)
 <use images/viguetas/MOM VT1 EP.png>
 Package pdftex.def Info: images/viguetas/MOM VT1 EP.png  used on input line 20.
 (pdftex.def)             Requested size: 470.91805pt x 92.89085pt.
-<images/viguetas/VT2 EP.png, id=428, 572.89032pt x 106.14656pt>
+<images/viguetas/VT2 EP.png, id=734, 572.89032pt x 106.14656pt>
 File: images/viguetas/VT2 EP.png Graphic file (type png)
 <use images/viguetas/VT2 EP.png>
 Package pdftex.def Info: images/viguetas/VT2 EP.png  used on input line 28.
@@ -1815,18 +1872,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--31
 
  []
 
-<images/viguetas/CORT VT2 EP.png, id=429, 810.02625pt x 117.43875pt>
+<images/viguetas/CORT VT2 EP.png, id=735, 810.02625pt x 117.43875pt>
 File: images/viguetas/CORT VT2 EP.png Graphic file (type png)
 <use images/viguetas/CORT VT2 EP.png>
 Package pdftex.def Info: images/viguetas/CORT VT2 EP.png  used on input line 35.
 (pdftex.def)             Requested size: 470.91805pt x 68.27579pt.
-<images/viguetas/MOM VT2 EP.png, id=430, 776.9025pt x 105.39375pt>
+<images/viguetas/MOM VT2 EP.png, id=736, 776.9025pt x 105.39375pt>
 File: images/viguetas/MOM VT2 EP.png Graphic file (type png)
 <use images/viguetas/MOM VT2 EP.png>
 Package pdftex.def Info: images/viguetas/MOM VT2 EP.png  used on input line 42.
 (pdftex.def)             Requested size: 470.91805pt x 63.88481pt.
 [31 <./images/viguetas/CORT VT1 EP.png> <./images/viguetas/MOM VT1 EP.png> <./images/viguetas/VT2 EP.png> <./images/viguetas/CORT VT2 EP.png>]
-<images/viguetas/VT3 EP.png, id=443, 571.38469pt x 101.62968pt>
+<images/viguetas/VT3 EP.png, id=749, 571.38469pt x 101.62968pt>
 File: images/viguetas/VT3 EP.png Graphic file (type png)
 <use images/viguetas/VT3 EP.png>
 Package pdftex.def Info: images/viguetas/VT3 EP.png  used on input line 50.
@@ -1836,17 +1893,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--53
 
  []
 
-<images/viguetas/CORT VT3 EP.png, id=444, 719.68875pt x 143.03438pt>
+<images/viguetas/CORT VT3 EP.png, id=750, 719.68875pt x 143.03438pt>
 File: images/viguetas/CORT VT3 EP.png Graphic file (type png)
 <use images/viguetas/CORT VT3 EP.png>
 Package pdftex.def Info: images/viguetas/CORT VT3 EP.png  used on input line 57.
 (pdftex.def)             Requested size: 470.91805pt x 93.59543pt.
-<images/viguetas/MOM VT3 EP.png, id=445, 738.50906pt x 143.03438pt>
+<images/viguetas/MOM VT3 EP.png, id=751, 738.50906pt x 143.03438pt>
 File: images/viguetas/MOM VT3 EP.png Graphic file (type png)
 <use images/viguetas/MOM VT3 EP.png>
 Package pdftex.def Info: images/viguetas/MOM VT3 EP.png  used on input line 64.
 (pdftex.def)             Requested size: 470.91805pt x 91.20775pt.
-<images/viguetas/VT4 EP.png, id=446, 443.40656pt x 133.24782pt>
+<images/viguetas/VT4 EP.png, id=752, 443.40656pt x 133.24782pt>
 File: images/viguetas/VT4 EP.png Graphic file (type png)
 <use images/viguetas/VT4 EP.png>
 Package pdftex.def Info: images/viguetas/VT4 EP.png  used on input line 72.
@@ -1857,17 +1914,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--75
  []
 
 [32 <./images/viguetas/MOM VT2 EP.png> <./images/viguetas/VT3 EP.png> <./images/viguetas/CORT VT3 EP.png> <./images/viguetas/MOM VT3 EP.png>]
-<images/viguetas/CORT VT4 EP.png, id=459, 335.00156pt x 138.5175pt>
+<images/viguetas/CORT VT4 EP.png, id=765, 335.00156pt x 138.5175pt>
 File: images/viguetas/CORT VT4 EP.png Graphic file (type png)
 <use images/viguetas/CORT VT4 EP.png>
 Package pdftex.def Info: images/viguetas/CORT VT4 EP.png  used on input line 79.
 (pdftex.def)             Requested size: 470.91805pt x 194.71576pt.
-<images/viguetas/MOM VT4 EP.png, id=460, 470.50781pt x 130.98938pt>
+<images/viguetas/MOM VT4 EP.png, id=766, 470.50781pt x 130.98938pt>
 File: images/viguetas/MOM VT4 EP.png Graphic file (type png)
 <use images/viguetas/MOM VT4 EP.png>
 Package pdftex.def Info: images/viguetas/MOM VT4 EP.png  used on input line 86.
 (pdftex.def)             Requested size: 470.91805pt x 131.10497pt.
-<images/viguetas/VT5 EP.png, id=461, 353.06906pt x 115.18031pt>
+<images/viguetas/VT5 EP.png, id=767, 353.06906pt x 115.18031pt>
 File: images/viguetas/VT5 EP.png Graphic file (type png)
 <use images/viguetas/VT5 EP.png>
 Package pdftex.def Info: images/viguetas/VT5 EP.png  used on input line 95.
@@ -1878,18 +1935,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--98
  []
 
 [33 <./images/viguetas/VT4 EP.png> <./images/viguetas/CORT VT4 EP.png> <./images/viguetas/MOM VT4 EP.png>]
-<images/viguetas/CORT VT5 EP.png, id=472, 389.95688pt x 143.78719pt>
+<images/viguetas/CORT VT5 EP.png, id=778, 389.95688pt x 143.78719pt>
 File: images/viguetas/CORT VT5 EP.png Graphic file (type png)
 <use images/viguetas/CORT VT5 EP.png>
 Package pdftex.def Info: images/viguetas/CORT VT5 EP.png  used on input line 102.
 (pdftex.def)             Requested size: 470.91805pt x 173.64734pt.
-<images/viguetas/MOM VT5 EP.png, id=473, 457.71pt x 139.27031pt>
+<images/viguetas/MOM VT5 EP.png, id=779, 457.71pt x 139.27031pt>
 File: images/viguetas/MOM VT5 EP.png Graphic file (type png)
 <use images/viguetas/MOM VT5 EP.png>
 Package pdftex.def Info: images/viguetas/MOM VT5 EP.png  used on input line 109.
 (pdftex.def)             Requested size: 470.91805pt x 143.29488pt.
  [34 <./images/viguetas/VT5 EP.png> <./images/viguetas/CORT VT5 EP.png>]
-<images/viguetas/VT6 EP.png, id=482, 400.49625pt x 87.32625pt>
+<images/viguetas/VT6 EP.png, id=789, 400.49625pt x 87.32625pt>
 File: images/viguetas/VT6 EP.png Graphic file (type png)
 <use images/viguetas/VT6 EP.png>
 Package pdftex.def Info: images/viguetas/VT6 EP.png  used on input line 117.
@@ -1899,18 +1956,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--120
 
  []
 
-<images/viguetas/CORT VT6 EP.png, id=483, 599.23875pt x 111.41624pt>
+<images/viguetas/CORT VT6 EP.png, id=790, 599.23875pt x 111.41624pt>
 File: images/viguetas/CORT VT6 EP.png Graphic file (type png)
 <use images/viguetas/CORT VT6 EP.png>
 Package pdftex.def Info: images/viguetas/CORT VT6 EP.png  used on input line 124.
 (pdftex.def)             Requested size: 470.91805pt x 87.55884pt.
-<images/viguetas/MOM VT6 EP.png, id=484, 596.98032pt x 102.3825pt>
+<images/viguetas/MOM VT6 EP.png, id=791, 596.98032pt x 102.3825pt>
 File: images/viguetas/MOM VT6 EP.png Graphic file (type png)
 <use images/viguetas/MOM VT6 EP.png>
 Package pdftex.def Info: images/viguetas/MOM VT6 EP.png  used on input line 131.
 (pdftex.def)             Requested size: 470.91805pt x 80.76256pt.
 [35 <./images/viguetas/MOM VT5 EP.png> <./images/viguetas/VT6 EP.png> <./images/viguetas/CORT VT6 EP.png>]
-<images/viguetas/VT7 EP.png, id=496, 785.93625pt x 170.13562pt>
+<images/viguetas/VT7 EP.png, id=802, 785.93625pt x 170.13562pt>
 File: images/viguetas/VT7 EP.png Graphic file (type png)
 <use images/viguetas/VT7 EP.png>
 Package pdftex.def Info: images/viguetas/VT7 EP.png  used on input line 139.
@@ -1920,17 +1977,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--142
 
  []
 
-<images/viguetas/CORT VT7 EP.png, id=497, 874.01532pt x 123.46124pt>
+<images/viguetas/CORT VT7 EP.png, id=803, 874.01532pt x 123.46124pt>
 File: images/viguetas/CORT VT7 EP.png Graphic file (type png)
 <use images/viguetas/CORT VT7 EP.png>
 Package pdftex.def Info: images/viguetas/CORT VT7 EP.png  used on input line 146.
 (pdftex.def)             Requested size: 470.91805pt x 66.52112pt.
-<images/viguetas/MOM VT7 CUB.png, id=498, 1013.28563pt x 174.6525pt>
+<images/viguetas/MOM VT7 CUB.png, id=804, 1013.28563pt x 174.6525pt>
 File: images/viguetas/MOM VT7 CUB.png Graphic file (type png)
 <use images/viguetas/MOM VT7 CUB.png>
 Package pdftex.def Info: images/viguetas/MOM VT7 CUB.png  used on input line 153.
 (pdftex.def)             Requested size: 470.91805pt x 81.16727pt.
-<images/viguetas/VT1 CUB.png, id=499, 432.86719pt x 103.88812pt>
+<images/viguetas/VT1 CUB.png, id=805, 432.86719pt x 103.88812pt>
 File: images/viguetas/VT1 CUB.png Graphic file (type png)
 <use images/viguetas/VT1 CUB.png>
 Package pdftex.def Info: images/viguetas/VT1 CUB.png  used on input line 165.
@@ -1941,17 +1998,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--168
  []
 
 [36 <./images/viguetas/MOM VT6 EP.png> <./images/viguetas/VT7 EP.png> <./images/viguetas/CORT VT7 EP.png> <./images/viguetas/MOM VT7 CUB.png>]
-<images/viguetas/CORT VT1 CUB.png, id=513, 541.27219pt x 90.3375pt>
+<images/viguetas/CORT VT1 CUB.png, id=818, 541.27219pt x 90.3375pt>
 File: images/viguetas/CORT VT1 CUB.png Graphic file (type png)
 <use images/viguetas/CORT VT1 CUB.png>
 Package pdftex.def Info: images/viguetas/CORT VT1 CUB.png  used on input line 172.
 (pdftex.def)             Requested size: 470.91805pt x 78.59848pt.
-<images/viguetas/MOM VT1 CUB.png, id=514, 508.90125pt x 98.61844pt>
+<images/viguetas/MOM VT1 CUB.png, id=819, 508.90125pt x 98.61844pt>
 File: images/viguetas/MOM VT1 CUB.png Graphic file (type png)
 <use images/viguetas/MOM VT1 CUB.png>
 Package pdftex.def Info: images/viguetas/MOM VT1 CUB.png  used on input line 179.
 (pdftex.def)             Requested size: 470.91805pt x 91.26123pt.
-<images/viguetas/VT2 CUB.png, id=515, 580.41844pt x 115.18031pt>
+<images/viguetas/VT2 CUB.png, id=820, 580.41844pt x 115.18031pt>
 File: images/viguetas/VT2 CUB.png Graphic file (type png)
 <use images/viguetas/VT2 CUB.png>
 Package pdftex.def Info: images/viguetas/VT2 CUB.png  used on input line 187.
@@ -1961,18 +2018,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 184--190
 
  []
 
-<images/viguetas/CORT VT2 CUB.png, id=516, 788.9475pt x 105.39375pt>
+<images/viguetas/CORT VT2 CUB.png, id=821, 788.9475pt x 105.39375pt>
 File: images/viguetas/CORT VT2 CUB.png Graphic file (type png)
 <use images/viguetas/CORT VT2 CUB.png>
 Package pdftex.def Info: images/viguetas/CORT VT2 CUB.png  used on input line 194.
 (pdftex.def)             Requested size: 470.91805pt x 62.90866pt.
 [37 <./images/viguetas/VT1 CUB.png> <./images/viguetas/CORT VT1 CUB.png> <./images/viguetas/MOM VT1 CUB.png> <./images/viguetas/VT2 CUB.png>]
-<images/viguetas/MOM VT2 CUB.png, id=529, 785.93625pt x 123.46124pt>
+<images/viguetas/MOM VT2 CUB.png, id=834, 785.93625pt x 123.46124pt>
 File: images/viguetas/MOM VT2 CUB.png Graphic file (type png)
 <use images/viguetas/MOM VT2 CUB.png>
 Package pdftex.def Info: images/viguetas/MOM VT2 CUB.png  used on input line 201.
 (pdftex.def)             Requested size: 470.91805pt x 73.97745pt.
-<images/viguetas/VT7 CUB'.png, id=530, 783.67781pt x 168.63pt>
+<images/viguetas/VT7 CUB'.png, id=835, 783.67781pt x 168.63pt>
 File: images/viguetas/VT7 CUB'.png Graphic file (type png)
 <use images/viguetas/VT7 CUB'.png>
 Package pdftex.def Info: images/viguetas/VT7 CUB'.png  used on input line 209.
@@ -1982,18 +2039,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--212
 
  []
 
-<images/viguetas/CORT VT 7 CUB'.png, id=531, 746.03719pt x 107.65219pt>
+<images/viguetas/CORT VT 7 CUB'.png, id=836, 746.03719pt x 107.65219pt>
 File: images/viguetas/CORT VT 7 CUB'.png Graphic file (type png)
 <use images/viguetas/CORT VT 7 CUB'.png>
 Package pdftex.def Info: images/viguetas/CORT VT 7 CUB'.png  used on input line 216.
 (pdftex.def)             Requested size: 470.91805pt x 67.95264pt.
-<images/viguetas/MOM VT7 CUB'.png, id=532, 866.48718pt x 125.71968pt>
+<images/viguetas/MOM VT7 CUB'.png, id=837, 866.48718pt x 125.71968pt>
 File: images/viguetas/MOM VT7 CUB'.png Graphic file (type png)
 <use images/viguetas/MOM VT7 CUB'.png>
 Package pdftex.def Info: images/viguetas/MOM VT7 CUB'.png  used on input line 223.
 (pdftex.def)             Requested size: 470.91805pt x 68.3269pt.
 [38 <./images/viguetas/CORT VT2 CUB.png> <./images/viguetas/MOM VT2 CUB.png> <./images/viguetas/VT7 CUB'.png> <./images/viguetas/CORT VT 7 CUB'.png>]
-<images/viguetas/VT7 CUB.png, id=545, 786.68906pt x 170.88844pt>
+<images/viguetas/VT7 CUB.png, id=850, 786.68906pt x 170.88844pt>
 File: images/viguetas/VT7 CUB.png Graphic file (type png)
 <use images/viguetas/VT7 CUB.png>
 Package pdftex.def Info: images/viguetas/VT7 CUB.png  used on input line 232.
@@ -2003,7 +2060,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--235
 
  []
 
-<images/viguetas/CORT VT 7 CUB.png, id=546, 752.8125pt x 122.70844pt>
+<images/viguetas/CORT VT 7 CUB.png, id=851, 752.8125pt x 122.70844pt>
 File: images/viguetas/CORT VT 7 CUB.png Graphic file (type png)
 <use images/viguetas/CORT VT 7 CUB.png>
 Package pdftex.def Info: images/viguetas/CORT VT 7 CUB.png  used on input line 239.
@@ -2012,7 +2069,7 @@ File: images/viguetas/MOM VT7 CUB.png Graphic file (type png)
 <use images/viguetas/MOM VT7 CUB.png>
 Package pdftex.def Info: images/viguetas/MOM VT7 CUB.png  used on input line 246.
 (pdftex.def)             Requested size: 470.91805pt x 81.16727pt.
-<images/viguetas/VT8 CUB.png, id=547, 285.31593pt x 146.04562pt>
+<images/viguetas/VT8 CUB.png, id=852, 285.31593pt x 146.04562pt>
 File: images/viguetas/VT8 CUB.png Graphic file (type png)
 <use images/viguetas/VT8 CUB.png>
 Package pdftex.def Info: images/viguetas/VT8 CUB.png  used on input line 254.
@@ -2023,17 +2080,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--257
  []
 
 [39 <./images/viguetas/MOM VT7 CUB'.png> <./images/viguetas/VT7 CUB.png> <./images/viguetas/CORT VT 7 CUB.png>]
-<images/viguetas/CORT VT8 CUB.png, id=559, 548.0475pt x 109.91063pt>
+<images/viguetas/CORT VT8 CUB.png, id=864, 548.0475pt x 109.91063pt>
 File: images/viguetas/CORT VT8 CUB.png Graphic file (type png)
 <use images/viguetas/CORT VT8 CUB.png>
 Package pdftex.def Info: images/viguetas/CORT VT8 CUB.png  used on input line 261.
 (pdftex.def)             Requested size: 470.91805pt x 94.44412pt.
-<images/viguetas/MOM VT8 CUB.png, id=560, 554.07pt x 113.67468pt>
+<images/viguetas/MOM VT8 CUB.png, id=865, 554.07pt x 113.67468pt>
 File: images/viguetas/MOM VT8 CUB.png Graphic file (type png)
 <use images/viguetas/MOM VT8 CUB.png>
 Package pdftex.def Info: images/viguetas/MOM VT8 CUB.png  used on input line 268.
 (pdftex.def)             Requested size: 470.91805pt x 96.61525pt.
-<images/viguetas/VT9 CUB.png, id=561, 386.19281pt x 137.7647pt>
+<images/viguetas/VT9 CUB.png, id=866, 386.19281pt x 137.7647pt>
 File: images/viguetas/VT9 CUB.png Graphic file (type png)
 <use images/viguetas/VT9 CUB.png>
 Package pdftex.def Info: images/viguetas/VT9 CUB.png  used on input line 277.
@@ -2044,17 +2101,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--280
  []
 
 [40 <./images/viguetas/VT8 CUB.png> <./images/viguetas/CORT VT8 CUB.png> <./images/viguetas/MOM VT8 CUB.png>]
-<images/viguetas/CORT V9 CUB.png, id=572, 499.8675pt x 153.57375pt>
+<images/viguetas/CORT V9 CUB.png, id=878, 499.8675pt x 153.57375pt>
 File: images/viguetas/CORT V9 CUB.png Graphic file (type png)
 <use images/viguetas/CORT V9 CUB.png>
 Package pdftex.def Info: images/viguetas/CORT V9 CUB.png  used on input line 284.
 (pdftex.def)             Requested size: 470.91805pt x 144.68506pt.
-<images/viguetas/MOM VT9 CUB.png, id=573, 538.26094pt x 124.21407pt>
+<images/viguetas/MOM VT9 CUB.png, id=879, 538.26094pt x 124.21407pt>
 File: images/viguetas/MOM VT9 CUB.png Graphic file (type png)
 <use images/viguetas/MOM VT9 CUB.png>
 Package pdftex.def Info: images/viguetas/MOM VT9 CUB.png  used on input line 291.
 (pdftex.def)             Requested size: 470.91805pt x 108.67375pt.
-<images/viguetas/VT10 CUB.png, id=574, 413.29407pt x 106.89937pt>
+<images/viguetas/VT10 CUB.png, id=880, 413.29407pt x 106.89937pt>
 File: images/viguetas/VT10 CUB.png Graphic file (type png)
 <use images/viguetas/VT10 CUB.png>
 Package pdftex.def Info: images/viguetas/VT10 CUB.png  used on input line 299.
@@ -2065,18 +2122,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--302
  []
 
 [41 <./images/viguetas/VT9 CUB.png> <./images/viguetas/CORT V9 CUB.png> <./images/viguetas/MOM VT9 CUB.png>]
-<images/viguetas/CORT VT10 CUB.png, id=586, 650.43pt x 128.73094pt>
+<images/viguetas/CORT VT10 CUB.png, id=891, 650.43pt x 128.73094pt>
 File: images/viguetas/CORT VT10 CUB.png Graphic file (type png)
 <use images/viguetas/CORT VT10 CUB.png>
 Package pdftex.def Info: images/viguetas/CORT VT10 CUB.png  used on input line 306.
 (pdftex.def)             Requested size: 470.91805pt x 93.20476pt.
-<images/viguetas/MOM VT10 CUB.png, id=587, 656.4525pt x 110.66344pt>
+<images/viguetas/MOM VT10 CUB.png, id=892, 656.4525pt x 110.66344pt>
 File: images/viguetas/MOM VT10 CUB.png Graphic file (type png)
 <use images/viguetas/MOM VT10 CUB.png>
 Package pdftex.def Info: images/viguetas/MOM VT10 CUB.png  used on input line 313.
 (pdftex.def)             Requested size: 470.91805pt x 79.38716pt.
 ) (Vigas auxiliares.tex
-<images/viguetas/V-10.png, id=588, 423.83344pt x 72.27pt>
+<images/viguetas/V-10.png, id=893, 423.83344pt x 72.27pt>
 File: images/viguetas/V-10.png Graphic file (type png)
 <use images/viguetas/V-10.png>
 Package pdftex.def Info: images/viguetas/V-10.png  used on input line 6.
@@ -2087,17 +2144,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--9
  []
 
 [42 <./images/viguetas/VT10 CUB.png> <./images/viguetas/CORT VT10 CUB.png> <./images/viguetas/MOM VT10 CUB.png>]
-<images/viguetas/CORT-10.png, id=601, 568.37344pt x 76.78688pt>
+<images/viguetas/CORT-10.png, id=904, 568.37344pt x 76.78688pt>
 File: images/viguetas/CORT-10.png Graphic file (type png)
 <use images/viguetas/CORT-10.png>
 Package pdftex.def Info: images/viguetas/CORT-10.png  used on input line 13.
 (pdftex.def)             Requested size: 470.91805pt x 63.62294pt.
-<images/viguetas/MOM-10.png, id=602, 807.015pt x 119.69719pt>
+<images/viguetas/MOM-10.png, id=905, 807.015pt x 119.69719pt>
 File: images/viguetas/MOM-10.png Graphic file (type png)
 <use images/viguetas/MOM-10.png>
 Package pdftex.def Info: images/viguetas/MOM-10.png  used on input line 20.
 (pdftex.def)             Requested size: 470.91805pt x 69.84631pt.
-<images/viguetas/V-11.png, id=603, 551.81157pt x 105.39375pt>
+<images/viguetas/V-11.png, id=906, 551.81157pt x 105.39375pt>
 File: images/viguetas/V-11.png Graphic file (type png)
 <use images/viguetas/V-11.png>
 Package pdftex.def Info: images/viguetas/V-11.png  used on input line 28.
@@ -2107,18 +2164,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--31
 
  []
 
-<images/viguetas/CORT-11.png, id=604, 549.55313pt x 106.89937pt>
+<images/viguetas/CORT-11.png, id=907, 549.55313pt x 106.89937pt>
 File: images/viguetas/CORT-11.png Graphic file (type png)
 <use images/viguetas/CORT-11.png>
 Package pdftex.def Info: images/viguetas/CORT-11.png  used on input line 35.
 (pdftex.def)             Requested size: 470.91805pt x 91.60542pt.
 [43 <./images/viguetas/V-10.png> <./images/viguetas/CORT-10.png> <./images/viguetas/MOM-10.png> <./images/viguetas/V-11.png>]
-<images/viguetas/MOM-11.png, id=617, 649.67719pt x 97.11281pt>
+<images/viguetas/MOM-11.png, id=920, 649.67719pt x 97.11281pt>
 File: images/viguetas/MOM-11.png Graphic file (type png)
 <use images/viguetas/MOM-11.png>
 Package pdftex.def Info: images/viguetas/MOM-11.png  used on input line 42.
 (pdftex.def)             Requested size: 470.91805pt x 70.39386pt.
-<images/viguetas/V-12.png, id=618, 596.2275pt x 118.19156pt>
+<images/viguetas/V-12.png, id=921, 596.2275pt x 118.19156pt>
 File: images/viguetas/V-12.png Graphic file (type png)
 <use images/viguetas/V-12.png>
 Package pdftex.def Info: images/viguetas/V-12.png  used on input line 50.
@@ -2128,18 +2185,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--53
 
  []
 
-<images/viguetas/CORT-12.png, id=619, 776.9025pt x 114.4275pt>
+<images/viguetas/CORT-12.png, id=922, 776.9025pt x 114.4275pt>
 File: images/viguetas/CORT-12.png Graphic file (type png)
 <use images/viguetas/CORT-12.png>
 Package pdftex.def Info: images/viguetas/CORT-12.png  used on input line 57.
 (pdftex.def)             Requested size: 470.91805pt x 69.36067pt.
-<images/viguetas/MOM-12.png, id=620, 776.9025pt x 112.92188pt>
+<images/viguetas/MOM-12.png, id=923, 776.9025pt x 112.92188pt>
 File: images/viguetas/MOM-12.png Graphic file (type png)
 <use images/viguetas/MOM-12.png>
 Package pdftex.def Info: images/viguetas/MOM-12.png  used on input line 64.
 (pdftex.def)             Requested size: 470.91805pt x 68.44801pt.
 [44 <./images/viguetas/CORT-11.png> <./images/viguetas/MOM-11.png> <./images/viguetas/V-12.png> <./images/viguetas/CORT-12.png>]
-<images/viguetas/V-13.png, id=633, 450.9347pt x 136.25906pt>
+<images/viguetas/V-13.png, id=936, 450.9347pt x 136.25906pt>
 File: images/viguetas/V-13.png Graphic file (type png)
 <use images/viguetas/V-13.png>
 Package pdftex.def Info: images/viguetas/V-13.png  used on input line 73.
@@ -2149,18 +2206,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--76
 
  []
 
-<images/viguetas/CORT-13.png, id=634, 438.13687pt x 118.19156pt>
+<images/viguetas/CORT-13.png, id=937, 438.13687pt x 118.19156pt>
 File: images/viguetas/CORT-13.png Graphic file (type png)
 <use images/viguetas/CORT-13.png>
 Package pdftex.def Info: images/viguetas/CORT-13.png  used on input line 80.
 (pdftex.def)             Requested size: 470.91805pt x 127.03722pt.
-<images/viguetas/MOM-13.png, id=635, 432.86719pt x 111.41624pt>
+<images/viguetas/MOM-13.png, id=938, 432.86719pt x 111.41624pt>
 File: images/viguetas/MOM-13.png Graphic file (type png)
 <use images/viguetas/MOM-13.png>
 Package pdftex.def Info: images/viguetas/MOM-13.png  used on input line 87.
 (pdftex.def)             Requested size: 470.91805pt x 121.21518pt.
 [45 <./images/viguetas/MOM-12.png> <./images/viguetas/V-13.png> <./images/viguetas/CORT-13.png>]
-<images/viguetas/V-14.png, id=646, 525.46312pt x 142.28156pt>
+<images/viguetas/V-14.png, id=949, 525.46312pt x 142.28156pt>
 File: images/viguetas/V-14.png Graphic file (type png)
 <use images/viguetas/V-14.png>
 Package pdftex.def Info: images/viguetas/V-14.png  used on input line 95.
@@ -2170,18 +2227,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--98
 
  []
 
-<images/viguetas/CORT-14.png, id=647, 510.40688pt x 118.94438pt>
+<images/viguetas/CORT-14.png, id=950, 510.40688pt x 118.94438pt>
 File: images/viguetas/CORT-14.png Graphic file (type png)
 <use images/viguetas/CORT-14.png>
 Package pdftex.def Info: images/viguetas/CORT-14.png  used on input line 102.
 (pdftex.def)             Requested size: 470.91805pt x 109.74776pt.
-<images/viguetas/MOM-14.png, id=648, 498.36188pt x 115.93312pt>
+<images/viguetas/MOM-14.png, id=951, 498.36188pt x 115.93312pt>
 File: images/viguetas/MOM-14.png Graphic file (type png)
 <use images/viguetas/MOM-14.png>
 Package pdftex.def Info: images/viguetas/MOM-14.png  used on input line 109.
 (pdftex.def)             Requested size: 470.91805pt x 109.55206pt.
 [46 <./images/viguetas/MOM-13.png> <./images/viguetas/V-14.png> <./images/viguetas/CORT-14.png>]
-<images/viguetas/V-11C.png, id=659, 551.05875pt x 116.68594pt>
+<images/viguetas/V-11C.png, id=963, 551.05875pt x 116.68594pt>
 File: images/viguetas/V-11C.png Graphic file (type png)
 <use images/viguetas/V-11C.png>
 Package pdftex.def Info: images/viguetas/V-11C.png  used on input line 146.
@@ -2191,17 +2248,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--149
 
  []
 
-<images/viguetas/CORT-11C.png, id=660, 557.83406pt x 77.53969pt>
+<images/viguetas/CORT-11C.png, id=964, 557.83406pt x 77.53969pt>
 File: images/viguetas/CORT-11C.png Graphic file (type png)
 <use images/viguetas/CORT-11C.png>
 Package pdftex.def Info: images/viguetas/CORT-11C.png  used on input line 153.
 (pdftex.def)             Requested size: 470.91805pt x 65.45941pt.
-<images/viguetas/MOM-11C.png, id=661, 649.67719pt x 96.36pt>
+<images/viguetas/MOM-11C.png, id=965, 649.67719pt x 96.36pt>
 File: images/viguetas/MOM-11C.png Graphic file (type png)
 <use images/viguetas/MOM-11C.png>
 Package pdftex.def Info: images/viguetas/MOM-11C.png  used on input line 160.
 (pdftex.def)             Requested size: 470.91805pt x 69.84816pt.
-<images/viguetas/V-12C.png, id=662, 602.25pt x 108.405pt>
+<images/viguetas/V-12C.png, id=966, 602.25pt x 108.405pt>
 File: images/viguetas/V-12C.png Graphic file (type png)
 <use images/viguetas/V-12C.png>
 Package pdftex.def Info: images/viguetas/V-12C.png  used on input line 168.
@@ -2212,17 +2269,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--171
  []
 
 [47 <./images/viguetas/MOM-14.png> <./images/viguetas/V-11C.png> <./images/viguetas/CORT-11C.png> <./images/viguetas/MOM-11C.png>]
-<images/viguetas/CORT-12C.png, id=677, 781.41937pt x 103.13531pt>
+<images/viguetas/CORT-12C.png, id=979, 781.41937pt x 103.13531pt>
 File: images/viguetas/CORT-12C.png Graphic file (type png)
 <use images/viguetas/CORT-12C.png>
 Package pdftex.def Info: images/viguetas/CORT-12C.png  used on input line 175.
 (pdftex.def)             Requested size: 470.91805pt x 62.1539pt.
-<images/viguetas/MOM-12C.png, id=678, 779.16093pt x 103.13531pt>
+<images/viguetas/MOM-12C.png, id=980, 779.16093pt x 103.13531pt>
 File: images/viguetas/MOM-12C.png Graphic file (type png)
 <use images/viguetas/MOM-12C.png>
 Package pdftex.def Info: images/viguetas/MOM-12C.png  used on input line 182.
 (pdftex.def)             Requested size: 470.91805pt x 62.3333pt.
-<images/viguetas/V-13C.png, id=679, 441.14813pt x 140.77594pt>
+<images/viguetas/V-13C.png, id=981, 441.14813pt x 140.77594pt>
 File: images/viguetas/V-13C.png Graphic file (type png)
 <use images/viguetas/V-13C.png>
 Package pdftex.def Info: images/viguetas/V-13C.png  used on input line 191.
@@ -2232,18 +2289,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--194
 
  []
 
-<images/viguetas/CORT-13C.png, id=680, 432.86719pt x 103.88812pt>
+<images/viguetas/CORT-13C.png, id=982, 432.86719pt x 103.88812pt>
 File: images/viguetas/CORT-13C.png Graphic file (type png)
 <use images/viguetas/CORT-13C.png>
 Package pdftex.def Info: images/viguetas/CORT-13C.png  used on input line 198.
 (pdftex.def)             Requested size: 470.91805pt x 113.02496pt.
 [48 <./images/viguetas/V-12C.png> <./images/viguetas/CORT-12C.png> <./images/viguetas/MOM-12C.png> <./images/viguetas/V-13C.png>]
-<images/viguetas/MOM-13C.png, id=693, 430.60875pt x 105.39375pt>
+<images/viguetas/MOM-13C.png, id=995, 430.60875pt x 105.39375pt>
 File: images/viguetas/MOM-13C.png Graphic file (type png)
 <use images/viguetas/MOM-13C.png>
 Package pdftex.def Info: images/viguetas/MOM-13C.png  used on input line 205.
 (pdftex.def)             Requested size: 470.91805pt x 115.26285pt.
-<images/viguetas/V-14C.png, id=694, 506.6428pt x 101.62968pt>
+<images/viguetas/V-14C.png, id=996, 506.6428pt x 101.62968pt>
 File: images/viguetas/V-14C.png Graphic file (type png)
 <use images/viguetas/V-14C.png>
 Package pdftex.def Info: images/viguetas/V-14C.png  used on input line 213.
@@ -2253,13 +2310,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--216
 
  []
 
-<images/viguetas/CORT-14C.png, id=695, 602.25pt x 121.95563pt>
+<images/viguetas/CORT-14C.png, id=997, 602.25pt x 121.95563pt>
 File: images/viguetas/CORT-14C.png Graphic file (type png)
 <use images/viguetas/CORT-14C.png>
 Package pdftex.def Info: images/viguetas/CORT-14C.png  used on input line 220.
 (pdftex.def)             Requested size: 470.91805pt x 95.36504pt.
 [49 <./images/viguetas/CORT-13C.png> <./images/viguetas/MOM-13C.png> <./images/viguetas/V-14C.png>]
-<images/viguetas/MOM-14C.png, id=706, 627.09282pt x 101.62968pt>
+<images/viguetas/MOM-14C.png, id=1008, 627.09282pt x 101.62968pt>
 File: images/viguetas/MOM-14C.png Graphic file (type png)
 <use images/viguetas/MOM-14C.png>
 Package pdftex.def Info: images/viguetas/MOM-14C.png  used on input line 227.
@@ -2477,7 +2534,7 @@ Underfull \hbox (badness 3323) in paragraph at lines 23--23
  []
 
 ) [79] (V auxiliares/Cort V10.tex) (V auxiliares/Cort V11.tex) (V auxiliares/Cort V12.tex [80]) (V auxiliares/Cort V13.tex) (V auxiliares/Cort V14.tex) [81] (V auxiliares/Cort V11C.tex) (V auxiliares/Cort V12C.tex) (V auxiliares/Cort V13C.tex [82]) (V auxiliares/Cort V14C.tex) [83]
-<images/Escalera_esquema.pdf, id=906, 319.6703pt x 110.10034pt>
+<images/Escalera_esquema.pdf, id=1202, 319.6703pt x 110.10034pt>
 File: images/Escalera_esquema.pdf Graphic file (type pdf)
 <use images/Escalera_esquema.pdf>
 Package pdftex.def Info: images/Escalera_esquema.pdf  used on input line 1153.
@@ -2486,17 +2543,13 @@ Package pdftex.def Info: images/Escalera_esquema.pdf  used on input line 1153.
 
 LaTeX Warning: Command \' invalid in math mode on input line 1179.
 
-[85]
-
-LaTeX Warning: Reference `eq:inerciae' on page 86 undefined on input line 1260.
-
-[86]
+[85] [86]
 Underfull \hbox (badness 10000) in paragraph at lines 1279--1281
 
  []
 
 (Tablas/Losa maciza/Dimensiones.tex) (Tablas/Losa maciza/Materiales.tex) [87] (Tablas/Losa maciza/Cargas.tex)
-<images/Viga_losa_maciza.pdf, id=944, 319.6703pt x 107.62207pt>
+<images/Viga_losa_maciza.pdf, id=1240, 319.6703pt x 107.62207pt>
 File: images/Viga_losa_maciza.pdf Graphic file (type pdf)
 <use images/Viga_losa_maciza.pdf>
 Package pdftex.def Info: images/Viga_losa_maciza.pdf  used on input line 1313.
@@ -3252,170 +3305,170 @@ LaTeX Warning: Command \' invalid in math mode on input line 165.
 LaTeX Warning: Command \' invalid in math mode on input line 165.
 
 ) (Tablas/Columnas/Resumen refuerzo.tex) [219] (diagramas Interacción.tex
-<images/COLUMNAS/C_A1_MX.pdf, id=1726, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_A1_MX.pdf, id=2014, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_A1_MX.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_A1_MX.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_A1_MX.pdf  used on input line 6.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_A1_MY.pdf, id=1727, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_A1_MY.pdf, id=2015, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_A1_MY.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_A1_MY.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_A1_MY.pdf  used on input line 13.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
  [220]
-<images/COLUMNAS/C_A2_MX.pdf, id=1733, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_A2_MX.pdf, id=2022, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_A2_MX.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_A2_MX.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_A2_MX.pdf  used on input line 28.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_A2_MY_.pdf, id=1734, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_A2_MY_.pdf, id=2023, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_A2_MY_.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_A2_MY_.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_A2_MY_.pdf  used on input line 35.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
-<images/COLUMNAS/C_A3_MX_.pdf, id=1735, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_A3_MX_.pdf, id=2024, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_A3_MX_.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_A3_MX_.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_A3_MX_.pdf  used on input line 50.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_A3_MY__.pdf, id=1736, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_A3_MY__.pdf, id=2025, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_A3_MY__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_A3_MY__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_A3_MY__.pdf  used on input line 57.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
  [221 <./images/COLUMNAS/C_A1_MX.pdf> <./images/COLUMNAS/C_A1_MY.pdf> <./images/COLUMNAS/C_A2_MX.pdf> <./images/COLUMNAS/C_A2_MY_.pdf>]
-<images/COLUMNAS/C_A4_MX__.pdf, id=1839, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_A4_MX__.pdf, id=2127, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_A4_MX__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_A4_MX__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_A4_MX__.pdf  used on input line 72.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_A4_MY__.pdf, id=1840, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_A4_MY__.pdf, id=2128, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_A4_MY__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_A4_MY__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_A4_MY__.pdf  used on input line 79.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
-<images/COLUMNAS/C_B1_MX.pdf, id=1841, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_B1_MX.pdf, id=2129, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_B1_MX.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_B1_MX.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_B1_MX.pdf  used on input line 94.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_B1_MY_.pdf, id=1842, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_B1_MY_.pdf, id=2130, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_B1_MY_.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_B1_MY_.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_B1_MY_.pdf  used on input line 101.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
  [222 <./images/COLUMNAS/C_A3_MX_.pdf> <./images/COLUMNAS/C_A3_MY__.pdf> <./images/COLUMNAS/C_A4_MX__.pdf> <./images/COLUMNAS/C_A4_MY__.pdf>]
-<images/COLUMNAS/C_B2_MX.pdf, id=1937, 404.48215pt x 257.0875pt>
+<images/COLUMNAS/C_B2_MX.pdf, id=2225, 404.48215pt x 257.0875pt>
 File: images/COLUMNAS/C_B2_MX.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_B2_MX.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_B2_MX.pdf  used on input line 116.
 (pdftex.def)             Requested size: 235.45901pt x 149.66003pt.
-<images/COLUMNAS/C_B2_MY.pdf, id=1938, 404.4952pt x 257.0875pt>
+<images/COLUMNAS/C_B2_MY.pdf, id=2226, 404.4952pt x 257.0875pt>
 File: images/COLUMNAS/C_B2_MY.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_B2_MY.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_B2_MY.pdf  used on input line 123.
 (pdftex.def)             Requested size: 235.45901pt x 149.65219pt.
-<images/COLUMNAS/C_B3_MX_.pdf, id=1939, 404.48215pt x 257.0875pt>
+<images/COLUMNAS/C_B3_MX_.pdf, id=2227, 404.48215pt x 257.0875pt>
 File: images/COLUMNAS/C_B3_MX_.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_B3_MX_.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_B3_MX_.pdf  used on input line 138.
 (pdftex.def)             Requested size: 235.45901pt x 149.66003pt.
-<images/COLUMNAS/C_B3_MY_.pdf, id=1940, 404.4952pt x 257.0875pt>
+<images/COLUMNAS/C_B3_MY_.pdf, id=2228, 404.4952pt x 257.0875pt>
 File: images/COLUMNAS/C_B3_MY_.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_B3_MY_.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_B3_MY_.pdf  used on input line 145.
 (pdftex.def)             Requested size: 235.45901pt x 149.65219pt.
  [223 <./images/COLUMNAS/C_B1_MX.pdf> <./images/COLUMNAS/C_B1_MY_.pdf> <./images/COLUMNAS/C_B2_MX.pdf> <./images/COLUMNAS/C_B2_MY.pdf>]
-<images/COLUMNAS/C_B4_MX_.pdf, id=2035, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_B4_MX_.pdf, id=2323, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_B4_MX_.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_B4_MX_.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_B4_MX_.pdf  used on input line 160.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_B4_MY__.pdf, id=2036, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_B4_MY__.pdf, id=2324, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_B4_MY__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_B4_MY__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_B4_MY__.pdf  used on input line 167.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
-<images/COLUMNAS/C_C1_MX_.pdf, id=2037, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_C1_MX_.pdf, id=2325, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_C1_MX_.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_C1_MX_.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_C1_MX_.pdf  used on input line 182.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_C1_MY__.pdf, id=2038, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_C1_MY__.pdf, id=2326, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_C1_MY__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_C1_MY__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_C1_MY__.pdf  used on input line 189.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
  [224 <./images/COLUMNAS/C_B3_MX_.pdf> <./images/COLUMNAS/C_B3_MY_.pdf> <./images/COLUMNAS/C_B4_MX_.pdf> <./images/COLUMNAS/C_B4_MY__.pdf>]
-<images/COLUMNAS/C_C2_MX_.pdf, id=2133, 404.48215pt x 257.0875pt>
+<images/COLUMNAS/C_C2_MX_.pdf, id=2421, 404.48215pt x 257.0875pt>
 File: images/COLUMNAS/C_C2_MX_.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_C2_MX_.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_C2_MX_.pdf  used on input line 204.
 (pdftex.def)             Requested size: 235.45901pt x 149.66003pt.
-<images/COLUMNAS/C_C2_MY.pdf, id=2134, 404.4952pt x 257.0875pt>
+<images/COLUMNAS/C_C2_MY.pdf, id=2422, 404.4952pt x 257.0875pt>
 File: images/COLUMNAS/C_C2_MY.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_C2_MY.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_C2_MY.pdf  used on input line 211.
 (pdftex.def)             Requested size: 235.45901pt x 149.65219pt.
-<images/COLUMNAS/C_C3_MX__.pdf, id=2135, 404.48215pt x 257.0875pt>
+<images/COLUMNAS/C_C3_MX__.pdf, id=2423, 404.48215pt x 257.0875pt>
 File: images/COLUMNAS/C_C3_MX__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_C3_MX__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_C3_MX__.pdf  used on input line 226.
 (pdftex.def)             Requested size: 235.45901pt x 149.66003pt.
-<images/COLUMNAS/C_C3_MY__.pdf, id=2136, 404.4952pt x 257.0875pt>
+<images/COLUMNAS/C_C3_MY__.pdf, id=2424, 404.4952pt x 257.0875pt>
 File: images/COLUMNAS/C_C3_MY__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_C3_MY__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_C3_MY__.pdf  used on input line 233.
 (pdftex.def)             Requested size: 235.45901pt x 149.65219pt.
  [225 <./images/COLUMNAS/C_C1_MX_.pdf> <./images/COLUMNAS/C_C1_MY__.pdf> <./images/COLUMNAS/C_C2_MX_.pdf> <./images/COLUMNAS/C_C2_MY.pdf>]
-<images/COLUMNAS/C_C4_MX__.pdf, id=2231, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_C4_MX__.pdf, id=2519, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_C4_MX__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_C4_MX__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_C4_MX__.pdf  used on input line 248.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_C4_MY___.pdf, id=2232, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_C4_MY___.pdf, id=2520, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_C4_MY___.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_C4_MY___.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_C4_MY___.pdf  used on input line 255.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
-<images/COLUMNAS/C_D1_MX.pdf, id=2233, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_D1_MX.pdf, id=2521, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_D1_MX.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_D1_MX.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_D1_MX.pdf  used on input line 270.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_D1_MY_.pdf, id=2234, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_D1_MY_.pdf, id=2522, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_D1_MY_.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_D1_MY_.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_D1_MY_.pdf  used on input line 277.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
  [226 <./images/COLUMNAS/C_C3_MX__.pdf> <./images/COLUMNAS/C_C3_MY__.pdf> <./images/COLUMNAS/C_C4_MX__.pdf> <./images/COLUMNAS/C_C4_MY___.pdf>]
-<images/COLUMNAS/C_D2_MX_.pdf, id=2329, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_D2_MX_.pdf, id=2618, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_D2_MX_.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_D2_MX_.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_D2_MX_.pdf  used on input line 292.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_D2_MY__.pdf, id=2330, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_D2_MY__.pdf, id=2619, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_D2_MY__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_D2_MY__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_D2_MY__.pdf  used on input line 299.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
-<images/COLUMNAS/C_D3_MX__.pdf, id=2331, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_D3_MX__.pdf, id=2620, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_D3_MX__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_D3_MX__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_D3_MX__.pdf  used on input line 314.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_D3_MY___.pdf, id=2332, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_D3_MY___.pdf, id=2621, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_D3_MY___.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_D3_MY___.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_D3_MY___.pdf  used on input line 321.
 (pdftex.def)             Requested size: 235.45901pt x 150.29314pt.
  [227 <./images/COLUMNAS/C_D1_MX.pdf> <./images/COLUMNAS/C_D1_MY_.pdf> <./images/COLUMNAS/C_D2_MX_.pdf> <./images/COLUMNAS/C_D2_MY__.pdf>]
-<images/COLUMNAS/C_D4_MX___.pdf, id=2428, 404.4721pt x 257.07744pt>
+<images/COLUMNAS/C_D4_MX___.pdf, id=2716, 404.4721pt x 257.07744pt>
 File: images/COLUMNAS/C_D4_MX___.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_D4_MX___.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_D4_MX___.pdf  used on input line 336.
 (pdftex.def)             Requested size: 235.45901pt x 149.65419pt.
-<images/COLUMNAS/C_D4_MY__.pdf, id=2429, 404.49318pt x 258.18858pt>
+<images/COLUMNAS/C_D4_MY__.pdf, id=2717, 404.49318pt x 258.18858pt>
 File: images/COLUMNAS/C_D4_MY__.pdf Graphic file (type pdf)
 <use images/COLUMNAS/C_D4_MY__.pdf>
 Package pdftex.def Info: images/COLUMNAS/C_D4_MY__.pdf  used on input line 343.
@@ -3514,18 +3567,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 1760--1761
 LaTeX Warning: Command \' invalid in math mode on input line 1763.
 
 [236]
-<images/vigas_de_cimentacion/Modelo_saps.png, id=2572, 427.5975pt x 347.79938pt>
+<images/vigas_de_cimentacion/Modelo_saps.png, id=2854, 427.5975pt x 347.79938pt>
 File: images/vigas_de_cimentacion/Modelo_saps.png Graphic file (type png)
 <use images/vigas_de_cimentacion/Modelo_saps.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/Modelo_saps.png  used on input line 1814.
 (pdftex.def)             Requested size: 427.59645pt x 347.79852pt.
  [237] [238 <./images/vigas_de_cimentacion/Modelo_saps.png>]
-<images/vigas_de_cimentacion/apoyo_1_a.png, id=2586, 371.88937pt x 302.63063pt>
+<images/vigas_de_cimentacion/apoyo_1_a.png, id=2867, 371.88937pt x 302.63063pt>
 File: images/vigas_de_cimentacion/apoyo_1_a.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_1_a.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_1_a.png  used on input line 1827.
 (pdftex.def)             Requested size: 209.29912pt x 170.32628pt.
-<images/vigas_de_cimentacion/apoyo_1_b.png, id=2587, 382.42876pt x 296.60812pt>
+<images/vigas_de_cimentacion/apoyo_1_b.png, id=2868, 382.42876pt x 296.60812pt>
 File: images/vigas_de_cimentacion/apoyo_1_b.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_1_b.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_1_b.png  used on input line 1834.
@@ -3535,12 +3588,12 @@ Overfull \hbox (2.61105pt too wide) in paragraph at lines 1824--1838
 [][] [] 
  []
 
-<images/vigas_de_cimentacion/apoyo_1_c.png, id=2588, 537.50812pt x 110.66344pt>
+<images/vigas_de_cimentacion/apoyo_1_c.png, id=2869, 537.50812pt x 110.66344pt>
 File: images/vigas_de_cimentacion/apoyo_1_c.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_1_c.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_1_c.png  used on input line 1842.
 (pdftex.def)             Requested size: 209.29912pt x 43.091pt.
-<images/vigas_de_cimentacion/apoyo_1_d.png, id=2589, 539.76656pt x 109.91063pt>
+<images/vigas_de_cimentacion/apoyo_1_d.png, id=2870, 539.76656pt x 109.91063pt>
 File: images/vigas_de_cimentacion/apoyo_1_d.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_1_d.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_1_d.png  used on input line 1849.
@@ -3551,12 +3604,12 @@ Overfull \hbox (2.61105pt too wide) in paragraph at lines 1839--1853
  []
 
 [239 <./images/vigas_de_cimentacion/apoyo_1_a.png> <./images/vigas_de_cimentacion/apoyo_1_b.png> <./images/vigas_de_cimentacion/apoyo_1_c.png> <./images/vigas_de_cimentacion/apoyo_1_d.png>]
-<images/vigas_de_cimentacion/apoyo_2_a.png, id=2600, 447.92343pt x 346.29375pt>
+<images/vigas_de_cimentacion/apoyo_2_a.png, id=2880, 447.92343pt x 346.29375pt>
 File: images/vigas_de_cimentacion/apoyo_2_a.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_2_a.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_2_a.png  used on input line 1867.
 (pdftex.def)             Requested size: 209.29912pt x 161.80695pt.
-<images/vigas_de_cimentacion/apoyo_2_b.png, id=2601, 389.20406pt x 284.56313pt>
+<images/vigas_de_cimentacion/apoyo_2_b.png, id=2881, 389.20406pt x 284.56313pt>
 File: images/vigas_de_cimentacion/apoyo_2_b.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_2_b.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_2_b.png  used on input line 1874.
@@ -3566,23 +3619,23 @@ Overfull \hbox (2.61105pt too wide) in paragraph at lines 1864--1878
 [][] [] 
  []
 
-<images/vigas_de_cimentacion/apoyo_2_c.png, id=2602, 423.83344pt x 176.15813pt>
+<images/vigas_de_cimentacion/apoyo_2_c.png, id=2882, 423.83344pt x 176.15813pt>
 File: images/vigas_de_cimentacion/apoyo_2_c.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_2_c.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_2_c.png  used on input line 1882.
 (pdftex.def)             Requested size: 209.29912pt x 86.99022pt.
-<images/vigas_de_cimentacion/apoyo_2_d.png, id=2603, 429.10312pt x 167.87718pt>
+<images/vigas_de_cimentacion/apoyo_2_d.png, id=2883, 429.10312pt x 167.87718pt>
 File: images/vigas_de_cimentacion/apoyo_2_d.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_2_d.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_2_d.png  used on input line 1889.
 (pdftex.def)             Requested size: 188.36792pt x 73.69455pt.
 [240 <./images/vigas_de_cimentacion/apoyo_2_a.png> <./images/vigas_de_cimentacion/apoyo_2_b.png> <./images/vigas_de_cimentacion/apoyo_2_c.png> <./images/vigas_de_cimentacion/apoyo_2_d.png>]
-<images/vigas_de_cimentacion/apoyo_3_a.png, id=2613, 426.09187pt x 335.00156pt>
+<images/vigas_de_cimentacion/apoyo_3_a.png, id=2893, 426.09187pt x 335.00156pt>
 File: images/vigas_de_cimentacion/apoyo_3_a.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_3_a.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_3_a.png  used on input line 1907.
 (pdftex.def)             Requested size: 209.29912pt x 164.55602pt.
-<images/vigas_de_cimentacion/apoyo_3_b.png, id=2614, 408.02437pt x 325.215pt>
+<images/vigas_de_cimentacion/apoyo_3_b.png, id=2894, 408.02437pt x 325.215pt>
 File: images/vigas_de_cimentacion/apoyo_3_b.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_3_b.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_3_b.png  used on input line 1914.
@@ -3592,12 +3645,12 @@ Overfull \hbox (2.61105pt too wide) in paragraph at lines 1904--1918
 [][] [] 
  []
 
-<images/vigas_de_cimentacion/apoyo_3_c.png, id=2615, 397.485pt x 176.15813pt>
+<images/vigas_de_cimentacion/apoyo_3_c.png, id=2895, 397.485pt x 176.15813pt>
 File: images/vigas_de_cimentacion/apoyo_3_c.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_3_c.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_3_c.png  used on input line 1922.
 (pdftex.def)             Requested size: 209.29912pt x 92.75856pt.
-<images/vigas_de_cimentacion/apoyo_3_d.png, id=2616, 434.37282pt x 170.13562pt>
+<images/vigas_de_cimentacion/apoyo_3_d.png, id=2896, 434.37282pt x 170.13562pt>
 File: images/vigas_de_cimentacion/apoyo_3_d.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_3_d.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_3_d.png  used on input line 1929.
@@ -3608,12 +3661,12 @@ Overfull \hbox (2.61105pt too wide) in paragraph at lines 1919--1933
  []
 
 [241 <./images/vigas_de_cimentacion/apoyo_3_a.png> <./images/vigas_de_cimentacion/apoyo_3_b.png> <./images/vigas_de_cimentacion/apoyo_3_c.png> <./images/vigas_de_cimentacion/apoyo_3_d.png>]
-<images/vigas_de_cimentacion/apoyo_4_a.png, id=2626, 414.79968pt x 336.50719pt>
+<images/vigas_de_cimentacion/apoyo_4_a.png, id=2906, 414.79968pt x 336.50719pt>
 File: images/vigas_de_cimentacion/apoyo_4_a.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_4_a.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_4_a.png  used on input line 1948.
 (pdftex.def)             Requested size: 209.29912pt x 169.79356pt.
-<images/vigas_de_cimentacion/apoyo_4_b.png, id=2627, 420.06938pt x 323.70938pt>
+<images/vigas_de_cimentacion/apoyo_4_b.png, id=2907, 420.06938pt x 323.70938pt>
 File: images/vigas_de_cimentacion/apoyo_4_b.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_4_b.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_4_b.png  used on input line 1955.
@@ -3623,12 +3676,12 @@ Overfull \hbox (2.61105pt too wide) in paragraph at lines 1945--1959
 [][] [] 
  []
 
-<images/vigas_de_cimentacion/apoyo_4_c.png, id=2628, 407.27156pt x 149.8097pt>
+<images/vigas_de_cimentacion/apoyo_4_c.png, id=2908, 407.27156pt x 149.8097pt>
 File: images/vigas_de_cimentacion/apoyo_4_c.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_4_c.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_4_c.png  used on input line 1963.
 (pdftex.def)             Requested size: 209.29912pt x 76.9871pt.
-<images/vigas_de_cimentacion/apoyo_4_d.png, id=2629, 383.18156pt x 109.1578pt>
+<images/vigas_de_cimentacion/apoyo_4_d.png, id=2909, 383.18156pt x 109.1578pt>
 File: images/vigas_de_cimentacion/apoyo_4_d.png Graphic file (type png)
 <use images/vigas_de_cimentacion/apoyo_4_d.png>
 Package pdftex.def Info: images/vigas_de_cimentacion/apoyo_4_d.png  used on input line 1970.
@@ -3643,7 +3696,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2053--2053
 []|\T1/lmr/bx/n/12 Requiere
  []
 
-<images/modeloempotramiento.pdf, id=2646, 624.1147pt x 46.37425pt>
+<images/modeloempotramiento.pdf, id=2925, 624.1147pt x 46.37425pt>
 File: images/modeloempotramiento.pdf Graphic file (type pdf)
 <use images/modeloempotramiento.pdf>
 Package pdftex.def Info: images/modeloempotramiento.pdf  used on input line 2072.
@@ -3658,32 +3711,23 @@ L3 programming layer <2024-02-20>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  87EFCDB6CF5CFAEAC99D79FE4E401FE0;14278.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 87EFCDB6CF5CFAEAC99D79FE4E401FE0;14278.
  ) 
 Here is how much of TeX's memory you used:
- 57070 strings out of 474457
- 1335459 string characters out of 5742754
- 2198190 words of memory out of 5000000
- 77258 multiletter control sequences out of 15000+600000
+ 57148 strings out of 474457
+ 1336917 string characters out of 5742754
+ 2199190 words of memory out of 5000000
+ 77328 multiletter control sequences out of 15000+600000
  637639 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 122i,15n,114p,1198b,1156s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 122i,15n,114p,1198b,1226s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\eduar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbsy10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmib10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (247 pages, 5254834 bytes).
+Output written on main.pdf (248 pages, 5300416 bytes).
 PDF statistics:
- 2963 PDF objects out of 2984 (max. 8388607)
+ 3241 PDF objects out of 3580 (max. 8388607)
  737 named destinations out of 1000 (max. 500000)
- 852 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1380 words of extra memory for PDF output out of 10000 (max. 10000000)
 
