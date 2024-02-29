@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 18:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 19:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1286,31 +1286,19 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 )
 \UNl=\box171
 \UNd=\box172
-
-
-LaTeX Warning: File `images/Escudo_UNAL.jpg' not found on input line 148.
-
-
-Settings.tex:148: Package pdftex.def Error: File `images/Escudo_UNAL.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.148 ...hics[width=23mm]{images/Escudo_UNAL.jpg}}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 148.
-(C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
+<images/Escudo_UNAL.jpg, id=40, 409.311pt x 409.968pt>
+File: images/Escudo_UNAL.jpg Graphic file (type jpg)
+<use images/Escudo_UNAL.jpg>
+Package pdftex.def Info: images/Escudo_UNAL.jpg  used on input line 148.
+(pdftex.def)             Requested size: 65.44133pt x 65.54617pt.
+)
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 35.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (main.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
 )
-No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -1331,7 +1319,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
-(C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count453
 \scratchdimen=\dimen426
@@ -1422,10 +1410,11 @@ File: translations-basic-dictionary-spanish.trsl (spanish translation file `tran
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 35.
 Package hyperref Info: Link coloring OFF on input line 35.
+ (main.out) (main.out)
 \@outlinefile=\write8
 \openout8 = `main.out'.
 
-<images/EscudoUN.png, id=42, 202.356pt x 82.8696pt>
+<images/EscudoUN.png, id=159, 202.356pt x 82.8696pt>
 File: images/EscudoUN.png Graphic file (type png)
 <use images/EscudoUN.png>
 Package pdftex.def Info: images/EscudoUN.png  used on input line 44.
@@ -1464,8 +1453,47 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
 Non-PDF special ignored!
 <special> ps:0.8 setlinewidth 0 setgray
-{C:/Users/eduar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/EscudoUN.png>]
-No file main.toc.
+{C:/Users/eduar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/EscudoUN.png>] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5.
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5.
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 5.
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 5.
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 5.
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+esvect on input line 5.
+ (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/esvect\uesvect.fd
+File: uesvect.fd 
+))
 \tf@toc=\write9
 \openout9 = `main.toc'.
 
@@ -1474,49 +1502,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.66 \newpage
-              [1]
+              [1{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
 Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 79.
-(C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 79.
- (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 79.
- (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 79.
- (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 79.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 79.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 79.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
- (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
- (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 79.
- (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-LaTeX Font Info:    Trying to load font information for U+esvect on input line 79.
- (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/esvect\uesvect.fd
-File: uesvect.fd 
-)
+
 Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
@@ -1536,176 +1527,156 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.93 
-      [1{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+      [1{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc} <./images/Escudo_UNAL.jpg>]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 105.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-
-LaTeX Warning: Reference `tab:CMPT' on page 2 undefined on input line 138.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
 [2{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
-LaTeX Warning: Reference `tab:EvaDC' on page 3 undefined on input line 210.
+ []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
 
  []
 
-[4{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
-
- []
-
-
-LaTeX Warning: Reference `tab:evalINCLIN' on page 5 undefined on input line 280.
-
-[5] [6]
+[4{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] [5] [6]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 463.
+(Font)              <14.4> on input line 443.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 463.
+(Font)              <10> on input line 443.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 463.
+(Font)              <7> on input line 443.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 463.
+(hyperref)                removing `math shift' on input line 443.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 463.
+(hyperref)                removing `subscript' on input line 443.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 463.
+(hyperref)                removing `math shift' on input line 443.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 463.
+(hyperref)                removing `math shift' on input line 443.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 463.
+(hyperref)                removing `subscript' on input line 443.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 463.
+(hyperref)                removing `math shift' on input line 443.
 
 [7] [8]
 
-LaTeX Warning: File `images/Espectro_aceleraciones_DE.pdf' not found on input line 516.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-d:/GitHub/Projects_Private/Tex/Proyecto de tesis/main.tex:516: Package pdftex.def Error: File `images/Espectro_aceleraciones_DE.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.516 ....2]{images/Espectro_aceleraciones_DE.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `secc:espectro y sa' on page 9 undefined on input line 524.
-
-
-LaTeX Warning: Reference `tab:ResumenWEd' on page 9 undefined on input line 524.
-
-[9]
-
-LaTeX Warning: Reference `tab:LMAX_TA' on page 10 undefined on input line 570.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 616--617
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
 
  []
 
-[10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 722--723
+[9] [10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 693--694
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 724--725
+Underfull \hbox (badness 10000) in paragraph at lines 695--696
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 728--729
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--705
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--715
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 732--734
+Underfull \hbox (badness 10000) in paragraph at lines 716--718
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 742--744
+Underfull \hbox (badness 10000) in paragraph at lines 719--721
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 745--747
+Underfull \hbox (badness 10000) in paragraph at lines 722--724
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 748--750
+Underfull \hbox (badness 10000) in paragraph at lines 725--726
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 751--753
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 754--755
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 756--757
+Underfull \hbox (badness 10000) in paragraph at lines 727--728
 
  []
 
 [13] [14] [15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 927--928
 
-! LaTeX Error: File `Tablas/Zapatas/flexion y cortante.tex' not found.
+ []
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
+[17]
 
-Enter file name: 
-d:/GitHub/Projects_Private/Tex/Proyecto de tesis/main.tex:904: Emergency stop.
-<read *> 
-         
-l.904 \input{Tablas/Zapatas/flexion y cortante}
-                                               ^^M
-*** (cannot \read from terminal in nonstop modes)
+LaTeX Warning: Command \' invalid in math mode on input line 930.
 
- 
+[18] (main.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 6CC84005AABDC4800536C380DD3DE6B0;6332.
+ ) 
 Here is how much of TeX's memory you used:
- 53992 strings out of 474457
- 1244631 string characters out of 5742754
- 1954190 words of memory out of 5000000
- 75244 multiletter control sequences out of 15000+600000
- 628616 words of font info for 98 fonts, out of 8000000 for 9000
+ 53955 strings out of 474457
+ 1242876 string characters out of 5742754
+ 1953190 words of memory out of 5000000
+ 75196 multiletter control sequences out of 15000+600000
+ 628298 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 122i,14n,114p,845b,982s stack positions out of 10000i,1000n,20000p,200000b,200000s
-d:/GitHub/Projects_Private/Tex/Proyecto de tesis/main.tex:904:  ==> Fatal error occurred, no output PDF file produced!
+ 122i,14n,114p,799b,1022s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\eduar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (20 pages, 673307 bytes).
+PDF statistics:
+ 454 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 399 words of extra memory for PDF output out of 10000 (max. 10000000)
+

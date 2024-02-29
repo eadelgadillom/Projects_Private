@@ -1,0 +1,30 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Descripción del proyecto}{1}{section.1}%
+\contentsline {section}{\numberline {2}Definición de la carga viva}{1}{section.2}%
+\contentsline {section}{\numberline {3}Evaluación de las cargas muertas}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Evaluación carga muerta piso tipo}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Evaluación carga muerta de cubierta}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Evaluación de cargas de la escalera}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Evaluación de cargas de la losa del ascensor}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Peso del piso tipo}{5}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Peso de la cubierta}{6}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Resumen peso del edificio por pisos y peso total}{7}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Evaluación de fuerzas sísmicas}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Amenaza sísmica $\mathbf {A_{a}}$, $\mathbf {A_{v}}$}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Micro Zonificación Sísmica de Bogotá}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Grupo de uso. Coeficiente de importancia}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Periodo de vibración}{8}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Espectro de diseño y Sa}{8}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Cortante en la base}{9}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Distribución vertical de la fuerza sísmica}{9}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Torsión accidental}{9}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Irregularidades en planta, altura y por ausencia de redundancia}{10}{subsection.4.9}%
+\contentsline {subsubsection}{\numberline {4.9.1}Irregularidades en planta}{10}{subsubsection.4.9.1}%
+\contentsline {subsubsection}{\numberline {4.9.2}Irregularidades en la altura}{13}{subsubsection.4.9.2}%
+\contentsline {subsubsection}{\numberline {4.9.3}Irregularidades por ausencia de redundancia}{13}{subsubsection.4.9.3}%
+\contentsline {subsection}{\numberline {4.10}Cortante en dos direcciones}{14}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Cortante como viga}{16}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}Diseño a flexión}{16}{subsection.4.12}%
+\contentsline {section}{\numberline {5}Viga de amarre}{17}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Criterio de amarre sísmico}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Control de asentamientos diferenciales}{18}{subsection.5.2}%
