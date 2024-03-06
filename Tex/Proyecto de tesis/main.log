@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 19:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.28)  28 FEB 2024 20:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1286,11 +1286,6 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 )
 \UNl=\box171
 \UNd=\box172
-<images/Escudo_UNAL.jpg, id=40, 409.311pt x 409.968pt>
-File: images/Escudo_UNAL.jpg Graphic file (type jpg)
-<use images/Escudo_UNAL.jpg>
-Package pdftex.def Info: images/Escudo_UNAL.jpg  used on input line 148.
-(pdftex.def)             Requested size: 65.44133pt x 65.54617pt.
 )
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 35.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
@@ -1414,10 +1409,10 @@ Package hyperref Info: Link coloring OFF on input line 35.
 \@outlinefile=\write8
 \openout8 = `main.out'.
 
-<images/EscudoUN.png, id=159, 202.356pt x 82.8696pt>
+<images/EscudoUN.png, id=50, 202.356pt x 82.8696pt>
 File: images/EscudoUN.png Graphic file (type png)
 <use images/EscudoUN.png>
-Package pdftex.def Info: images/EscudoUN.png  used on input line 44.
+Package pdftex.def Info: images/EscudoUN.png  used on input line 45.
 (pdftex.def)             Requested size: 202.3555pt x 82.86937pt.
  [1
 Non-PDF special ignored!
@@ -1453,44 +1448,54 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
 Non-PDF special ignored!
 <special> ps:0.8 setlinewidth 0 setgray
-{C:/Users/eduar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/EscudoUN.png>] (main.toc
+{C:/Users/eduar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/EscudoUN.png>]
+File: images/EscudoUN.png Graphic file (type png)
+<use images/EscudoUN.png>
+Package pdftex.def Info: images/EscudoUN.png  used on input line 66.
+(pdftex.def)             Requested size: 202.3555pt x 82.86937pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.81 \end{titlepage}
+                     [1] (main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 5.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 3.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 5.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 3.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <12> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 5.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+(Font)              <6> on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 5.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 3.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+esvect on input line 5.
+LaTeX Font Info:    Trying to load font information for U+esvect on input line 3.
  (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/esvect\uesvect.fd
 File: uesvect.fd 
 ))
@@ -1501,160 +1506,13 @@ File: uesvect.fd
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.66 \newpage
-              [1{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
-
- []
-
-
+l.87 \newpage
+              [1]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.93 
-      [1{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc} <./images/Escudo_UNAL.jpg>]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 105.
- (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
-
- []
-
-[2{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
-
- []
-
-[4{C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] [5] [6]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 443.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 443.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 443.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 443.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 443.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 443.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 443.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 443.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 443.
-
-[7] [8]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 587--588
-
- []
-
-[9] [10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 693--694
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 695--696
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 699--700
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 703--705
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 713--715
-
- []
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 716--718
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 719--721
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 722--724
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--726
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 727--728
-
- []
-
-[13] [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 927--928
-
- []
-
-[17]
-
-LaTeX Warning: Command \' invalid in math mode on input line 930.
-
-[18] (main.aux
+l.112 \end{document}
+                     [1] (main.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 )
@@ -1663,20 +1521,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6CC84005AABDC4800536C380DD3DE6B0;6332.
+(rerunfilecheck)             Checksum: 060904DA5F668E85D18A50C0193F45F4;248.
  ) 
 Here is how much of TeX's memory you used:
- 53955 strings out of 474457
- 1242876 string characters out of 5742754
- 1953190 words of memory out of 5000000
- 75196 multiletter control sequences out of 15000+600000
- 628298 words of font info for 97 fonts, out of 8000000 for 9000
+ 53719 strings out of 474457
+ 1239010 string characters out of 5742754
+ 1931190 words of memory out of 5000000
+ 75051 multiletter control sequences out of 15000+600000
+ 593001 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 122i,14n,114p,799b,1022s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\eduar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (20 pages, 673307 bytes).
+ 122i,11n,114p,771b,955s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb>
+Output written on main.pdf (4 pages, 134140 bytes).
 PDF statistics:
- 454 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 500000)
- 399 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 94 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
