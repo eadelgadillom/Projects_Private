@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.31)  31 MAR 2024 12:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.31)  31 MAR 2024 13:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1287,7 +1287,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \UNl=\box171
 \UNd=\box172
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 36.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 33.
  (C:\Program Files\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (main.aux
@@ -1296,24 +1296,24 @@ LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count453
@@ -1382,8 +1382,8 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
 (C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip90
@@ -1403,8 +1403,8 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 ) (C:\Program Files\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 36.
-Package hyperref Info: Link coloring OFF on input line 36.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 33.
+Package hyperref Info: Link coloring OFF on input line 33.
  (main.out) (main.out)
 \@outlinefile=\write8
 \openout8 = `main.out'.
@@ -1412,7 +1412,7 @@ Package hyperref Info: Link coloring OFF on input line 36.
 <images/EscudoUN.png, id=70, 202.356pt x 82.8696pt>
 File: images/EscudoUN.png Graphic file (type png)
 <use images/EscudoUN.png>
-Package pdftex.def Info: images/EscudoUN.png  used on input line 46.
+Package pdftex.def Info: images/EscudoUN.png  used on input line 43.
 (pdftex.def)             Requested size: 202.3555pt x 82.86937pt.
  [1
 Non-PDF special ignored!
@@ -1451,13 +1451,13 @@ Non-PDF special ignored!
 {C:/Users/eduar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/EscudoUN.png>]
 File: images/EscudoUN.png Graphic file (type png)
 <use images/EscudoUN.png>
-Package pdftex.def Info: images/EscudoUN.png  used on input line 67.
+Package pdftex.def Info: images/EscudoUN.png  used on input line 64.
 (pdftex.def)             Requested size: 202.3555pt x 82.86937pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.82 \end{titlepage}
+l.79 \end{titlepage}
                      [1] (main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1506,24 +1506,13 @@ File: uesvect.fd
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.88 \newpage
+l.85 \newpage
               [1]
-
-Package natbib Warning: Citation `paper_possel' on page 1 undefined on input line 125.
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.126 \subsection
-                 {Estado del Arte} [1]
-
-Package natbib Warning: Citation `Supernovae_book' on page 2 undefined on input line 127.
-
-
-Package natbib Warning: There were undefined citations.
-
-[2] (main.aux
+l.123 \subsection
+                 {Estado del Arte} [1] [2] (main.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 )
@@ -1543,7 +1532,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  122i,11n,114p,771b,955s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmro12.pfb>
-Output written on main.pdf (5 pages, 143925 bytes).
+Output written on main.pdf (5 pages, 144241 bytes).
 PDF statistics:
  124 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
