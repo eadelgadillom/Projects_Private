@@ -24,9 +24,7 @@ includehead,includefoot]{geometry}
 %-------------------------------------------
 %Colours
 \usepackage{color}
-%\usepackage{xcolor}
-
-
+\usepackage{xcolor}
 %-------------------------------------------
 
 %-------------------------------------------
@@ -54,7 +52,9 @@ includehead,includefoot]{geometry}
 %Most powerful image package
 \usepackage{tikz}
 \usetikzlibrary{babel}
+\usetikzlibrary{positioning}
 %Sometimes used images packages
+
 \usepackage{pst-all}
 \usepackage{pstricks}
 %Allows to position figures inside a paragraph
@@ -66,6 +66,7 @@ includehead,includefoot]{geometry}
 %Math packages
 \usepackage{mathtools}
 \usepackage{amsmath}
+\usepackage{amssymb}
 \usepackage{amsfonts}
 %Nice cancelations arrows
 \usepackage{cancel}
@@ -102,40 +103,6 @@ includehead,includefoot]{geometry}
 \usepackage{colortbl}
 %-------------------------------------------
 
-
-%-------------------------------------------
-%National University of Colombia - Logo
-% Definimos el color del logo
-
-\newgray{ungris}{0.6}
-
-% Dimension del logo 
-
-\newdimen\UNlong
-
-% Genera la U (PsPicture)
-
-\newcommand{\UNU}{
- 	\pscustom{
- 		\psline[linearc=0.45]{C-C}(0,1)(0,0)(1.102,0)
-		\psline(1.102,1)(0.92,1)(0.92,0.487)
-		\psline[linearc=0.35](0.92,0.152)(0.553,0.152)(0.153,0.152)(0.153,0.487)
-		\psline(0.153,1)(0,1)
-	\fill[linecolor=ungris,fillstyle=solid,fillcolor=ungris]}}
-
-% Genera la UN
-
-\newcommand{\UNlog}[1]{
-	\UNlong=#1
-	\psset{unit=1\UNlong,linewidth=0.1pt,linecolor=ungris}
-  \begin{pspicture}(-0.1,-0.1)(2.386,1.1)
- 		\rput(0,0){\UNU}
-		\rput{180}(2.286,1){\UNU}
-	\end{pspicture}
-    }
-% Fin de la definición del logo
-%Rehacer el logo de UN en tikz para que compile en pdflatex
-%-------------------------------------------
 %-------------------------------------------
 %Page style
 \usepackage[usestackEOL]{stackengine}
@@ -152,3 +119,14 @@ includehead,includefoot]{geometry}
 \renewcommand{\headrulewidth}{1pt}
 
 %-------------------------------------------
+
+%-------------------------------------------
+%others
+\usepackage{pgfplots,caption}
+\usepackage{comment}
+\usepackage{pdflscape}
+\usepackage{rotating}
+\usepackage{parskip}
+\usepackage{hhline}
+\usepackage{longtable,lscape}
+\usepackage{booktabs,bigstrut}
