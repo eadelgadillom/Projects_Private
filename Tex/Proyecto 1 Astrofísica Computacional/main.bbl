@@ -1,0 +1,189 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{AT20G}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=cb3bf0c2471515d42c8d3af97768f685}{%
+           family={Massardi},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eb8c368e6f9b6ad9dd19a308ddf15f2d}{%
+           family={Ekers},
+           familyi={E\bibinitperiod},
+           given={R.\bibnamedelimi D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8e0fe65a0ebff878b8ddf5b7843dc2c0}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ef51c21fe77b45a4af3afd38067862ca}{%
+           family={Ricci},
+           familyi={R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2398ff92402aa17f15e1e7d48712232c}{%
+           family={Sadler},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=534d02e99991362a90b03b6ed79224a1}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=81be4a9260557b9c953cc43945540bdf}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={W.\bibnamedelimi E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7db09d40b46939d66b88585e341feff}
+      \strng{fullhash}{edaca1c1d4bd365ed89df63402dac4d0}
+      \strng{fullhashraw}{edaca1c1d4bd365ed89df63402dac4d0}
+      \strng{bibnamehash}{edaca1c1d4bd365ed89df63402dac4d0}
+      \strng{authorbibnamehash}{edaca1c1d4bd365ed89df63402dac4d0}
+      \strng{authornamehash}{f7db09d40b46939d66b88585e341feff}
+      \strng{authorfullhash}{edaca1c1d4bd365ed89df63402dac4d0}
+      \strng{authorfullhashraw}{edaca1c1d4bd365ed89df63402dac4d0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{number}{2}
+      \field{title}{The Australia telescope 20-GHz (AT20G) survey: the bright source sample}
+      \field{volume}{384}
+      \field{year}{2008}
+      \field{pages}{775\bibrangedash 882}
+      \range{pages}{108}
+    \endentry
+    \entry{Super}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=9d53d2a0c4f2fd18cf8a73cf0f99fdf7}{%
+           family={Hambly},
+           familyi={H\bibinitperiod},
+           given={N.\bibnamedelimi C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=26b9f44e247749ced943088149059a3f}{%
+           family={MacGillivray},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi T.},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=962ea103498c8695cf19e7506316d893}{%
+           family={Read},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=04eda2ac4be33302f370f647fc850d22}{%
+           family={Tritton},
+           familyi={T\bibinitperiod},
+           given={S.\bibnamedelimi B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=0a7ef9f3114170a258b6d8389cde685a}{%
+           family={Thomson},
+           familyi={T\bibinitperiod},
+           given={E.\bibnamedelimi B.},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=4f7734cd3dde54be8f5341bfe2ee3250}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={B.\bibnamedelimi D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=f6cb34623349c97cfeefa9343725650b}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{34bac8fdbd2f87c5eba40ed803d80938}
+      \strng{fullhash}{2e38e0aba9a74bcace072085e57a5046}
+      \strng{fullhashraw}{2e38e0aba9a74bcace072085e57a5046}
+      \strng{bibnamehash}{2e38e0aba9a74bcace072085e57a5046}
+      \strng{authorbibnamehash}{2e38e0aba9a74bcace072085e57a5046}
+      \strng{authornamehash}{34bac8fdbd2f87c5eba40ed803d80938}
+      \strng{authorfullhash}{2e38e0aba9a74bcace072085e57a5046}
+      \strng{authorfullhashraw}{2e38e0aba9a74bcace072085e57a5046}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{number}{4}
+      \field{title}{The SuperCOSMOS sky survey—I. Introduction and description}
+      \field{volume}{326}
+      \field{year}{2001}
+      \field{pages}{1279\bibrangedash 1294}
+      \range{pages}{16}
+    \endentry
+    \entry{ML}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=f38417cbcbe1d4c4bf407f8886669be1}{%
+           family={Rohde},
+           familyi={R\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8cda1b948bbd61200039a86e2407fa30}{%
+           family={Drinkwater},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8a6def659413b6f4219cbd9182d2c08b}{%
+           family={Gallagher},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=398567504b0a0b201314b3b503af8c2a}{%
+           family={Downs},
+           familyi={D\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4a2d78f3c89e46aacb1b8c4999c11b2c}{%
+           family={Doyle},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{158b799b0c441ff1a2af85b9a0ff9954}
+      \strng{fullhash}{76b10f3ea876c3c6163b92e53fe0af32}
+      \strng{fullhashraw}{76b10f3ea876c3c6163b92e53fe0af32}
+      \strng{bibnamehash}{76b10f3ea876c3c6163b92e53fe0af32}
+      \strng{authorbibnamehash}{76b10f3ea876c3c6163b92e53fe0af32}
+      \strng{authornamehash}{158b799b0c441ff1a2af85b9a0ff9954}
+      \strng{authorfullhash}{76b10f3ea876c3c6163b92e53fe0af32}
+      \strng{authorfullhashraw}{76b10f3ea876c3c6163b92e53fe0af32}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{number}{1}
+      \field{title}{The Australia telescope 20-GHz (AT20G) survey: the bright source sample}
+      \field{volume}{360}
+      \field{year}{2005}
+      \field{pages}{69\bibrangedash 75}
+      \range{pages}{7}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
