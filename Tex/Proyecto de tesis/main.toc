@@ -1,4 +1,8 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}Introduccion}{1}{section.1}%
-\contentsline {section}{\numberline {2}Objetivo}{1}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Objetivos especificos}{1}{subsection.2.1}%
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Objetivo General}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Objetivos específicos}{1}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Antecedentes}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Estado del Arte}{2}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Planteamiento del problema}{2}{section.4}%
