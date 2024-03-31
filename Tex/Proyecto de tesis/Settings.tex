@@ -92,7 +92,18 @@ includehead,includefoot]{geometry}
 
 %-------------------------------------------
 %Refs and cites
-\usepackage[hidelinks]{hyperref}
+%\usepackage{achemso}
+%\usepackage{natbib}
+\usepackage{hyperref}
+\hypersetup{
+colorlinks=true,
+urlcolor= blue,
+citecolor=blue,
+linkcolor= black,
+bookmarks=true,
+bookmarksopen=false,
+}
+\usepackage[backend=biber]{biblatex}
 %\usepackage{cite}
 %-------------------------------------------
 
@@ -130,3 +141,5 @@ includehead,includefoot]{geometry}
 \usepackage{hhline}
 \usepackage{longtable,lscape}
 \usepackage{booktabs,bigstrut}
+\usepackage{enumerate}
+\usepackage{cleveref}
