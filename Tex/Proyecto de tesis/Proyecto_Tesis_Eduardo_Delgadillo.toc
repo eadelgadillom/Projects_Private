@@ -8,4 +8,7 @@
 \contentsline {subsubsection}{\numberline {3.1.1}Origen y composicion Estelar}{2}{subsubsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}Polvo cosmico}{2}{subsubsection.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.3}Radiacion del Cuerpo Negro}{3}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Formacion Planetaria}{3}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}SED: Spectral Energy Distribution}{3}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}La Luna}{3}{subsubsection.3.1.6}%
 \contentsline {section}{\numberline {4}Planteamiento del problema}{3}{section.4}%

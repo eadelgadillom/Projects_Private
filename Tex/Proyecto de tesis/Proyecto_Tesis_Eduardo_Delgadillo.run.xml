@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>main.bcf</file>
+      <file>Proyecto_Tesis_Eduardo_Delgadillo.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>main.bbl</file>
+      <file>Proyecto_Tesis_Eduardo_Delgadillo.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -60,23 +60,23 @@
       <file>spanish.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>main</infile>
+      <infile>Proyecto_Tesis_Eduardo_Delgadillo</infile>
     </cmdline>
     <input>
-      <file>main.bcf</file>
+      <file>Proyecto_Tesis_Eduardo_Delgadillo.bcf</file>
     </input>
     <output>
-      <file>main.bbl</file>
+      <file>Proyecto_Tesis_Eduardo_Delgadillo.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>main.bbl</file>
+      <file>Proyecto_Tesis_Eduardo_Delgadillo.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>main.bcf</file>
+      <file>Proyecto_Tesis_Eduardo_Delgadillo.bcf</file>
     </requires>
     <requires type="editable">
       <file>ref.bib</file>
