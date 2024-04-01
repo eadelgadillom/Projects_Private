@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  1 APR 2024 02:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  1 APR 2024 11:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/GitHub/Projects_Private/Tex/Proyecto de tesis/Proyecto_Tesis_Eduardo_Delgadillo.tex"
-(d:/GitHub/Projects_Private/Tex/Proyecto de tesis/Proyecto_Tesis_Eduardo_Delgadillo.tex
+**"d:/GitHub/Projects_Private/Tex/Proyecto de tesis/tesis.tex"
+(d:/GitHub/Projects_Private/Tex/Proyecto de tesis/tesis.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -1045,64 +1045,80 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip67
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 105.
+Package hyperref Info: Option `colorlinks' set `true' on input line 106.
 
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 105.
+(hyperref)                setting the option has no effect on input line 106.
 
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 105.
-(C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 106.
+(C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count421
+\csq@gtype=\count422
+\csq@glevel=\count423
+\csq@qlevel=\count424
+\csq@maxlvl=\count425
+\csq@tshold=\count426
+\csq@ltx@everypar=\toks56
+ (C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
  (C:\Program Files\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count421
+\lrq@indent=\count427
  (C:\Program Files\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count422
-\c@listtotal=\count423
-\c@listcount=\count424
-\c@liststart=\count425
-\c@liststop=\count426
-\c@citecount=\count427
-\c@citetotal=\count428
-\c@multicitecount=\count429
-\c@multicitetotal=\count430
-\c@instcount=\count431
-\c@maxnames=\count432
-\c@minnames=\count433
-\c@maxitems=\count434
-\c@minitems=\count435
-\c@citecounter=\count436
-\c@maxcitecounter=\count437
-\c@savedcitecounter=\count438
-\c@uniquelist=\count439
-\c@uniquename=\count440
-\c@refsection=\count441
-\c@refsegment=\count442
-\c@maxextratitle=\count443
-\c@maxextratitleyear=\count444
-\c@maxextraname=\count445
-\c@maxextradate=\count446
-\c@maxextraalpha=\count447
-\c@abbrvpenalty=\count448
-\c@highnamepenalty=\count449
-\c@lownamepenalty=\count450
-\c@maxparens=\count451
-\c@parenlevel=\count452
-\blx@tempcnta=\count453
-\blx@tempcntb=\count454
-\blx@tempcntc=\count455
-\c@blx@maxsection=\count456
-\blx@maxsegment@0=\count457
-\blx@notetype=\count458
-\blx@parenlevel@text=\count459
-\blx@parenlevel@foot=\count460
-\blx@sectionciteorder@0=\count461
-\blx@sectionciteorderinternal@0=\count462
-\blx@entrysetcounter=\count463
-\blx@biblioinstance=\count464
+\c@tabx@nest=\count428
+\c@listtotal=\count429
+\c@listcount=\count430
+\c@liststart=\count431
+\c@liststop=\count432
+\c@citecount=\count433
+\c@citetotal=\count434
+\c@multicitecount=\count435
+\c@multicitetotal=\count436
+\c@instcount=\count437
+\c@maxnames=\count438
+\c@minnames=\count439
+\c@maxitems=\count440
+\c@minitems=\count441
+\c@citecounter=\count442
+\c@maxcitecounter=\count443
+\c@savedcitecounter=\count444
+\c@uniquelist=\count445
+\c@uniquename=\count446
+\c@refsection=\count447
+\c@refsegment=\count448
+\c@maxextratitle=\count449
+\c@maxextratitleyear=\count450
+\c@maxextraname=\count451
+\c@maxextradate=\count452
+\c@maxextraalpha=\count453
+\c@abbrvpenalty=\count454
+\c@highnamepenalty=\count455
+\c@lownamepenalty=\count456
+\c@maxparens=\count457
+\c@parenlevel=\count458
+\blx@tempcnta=\count459
+\blx@tempcntb=\count460
+\blx@tempcntc=\count461
+\c@blx@maxsection=\count462
+\blx@maxsegment@0=\count463
+\blx@notetype=\count464
+\blx@parenlevel@text=\count465
+\blx@parenlevel@foot=\count466
+\blx@sectionciteorder@0=\count467
+\blx@sectionciteorderinternal@0=\count468
+\blx@entrysetcounter=\count469
+\blx@biblioinstance=\count470
 \labelnumberwidth=\skip68
 \labelalphawidth=\skip69
 \biblabelsep=\skip70
@@ -1114,9 +1130,9 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@bcfin=\read6
 \blx@bcfout=\write6
 \blx@langwohyphens=\language80
-\c@mincomprange=\count465
-\c@maxcomprange=\count466
-\c@mincompwidth=\count467
+\c@mincomprange=\count471
+\c@maxcomprange=\count472
+\c@mincompwidth=\count473
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -1124,74 +1140,74 @@ File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count468
-\c@savedafterword=\count469
-\c@annotator=\count470
-\c@savedannotator=\count471
-\c@author=\count472
-\c@savedauthor=\count473
-\c@bookauthor=\count474
-\c@savedbookauthor=\count475
-\c@commentator=\count476
-\c@savedcommentator=\count477
-\c@editor=\count478
-\c@savededitor=\count479
-\c@editora=\count480
-\c@savededitora=\count481
-\c@editorb=\count482
-\c@savededitorb=\count483
-\c@editorc=\count484
-\c@savededitorc=\count485
-\c@foreword=\count486
-\c@savedforeword=\count487
-\c@holder=\count488
-\c@savedholder=\count489
-\c@introduction=\count490
-\c@savedintroduction=\count491
-\c@namea=\count492
-\c@savednamea=\count493
-\c@nameb=\count494
-\c@savednameb=\count495
-\c@namec=\count496
-\c@savednamec=\count497
-\c@translator=\count498
-\c@savedtranslator=\count499
-\c@shortauthor=\count500
-\c@savedshortauthor=\count501
-\c@shorteditor=\count502
-\c@savedshorteditor=\count503
-\c@labelname=\count504
-\c@savedlabelname=\count505
-\c@institution=\count506
-\c@savedinstitution=\count507
-\c@lista=\count508
-\c@savedlista=\count509
-\c@listb=\count510
-\c@savedlistb=\count511
-\c@listc=\count512
-\c@savedlistc=\count513
-\c@listd=\count514
-\c@savedlistd=\count515
-\c@liste=\count516
-\c@savedliste=\count517
-\c@listf=\count518
-\c@savedlistf=\count519
-\c@location=\count520
-\c@savedlocation=\count521
-\c@organization=\count522
-\c@savedorganization=\count523
-\c@origlocation=\count524
-\c@savedoriglocation=\count525
-\c@origpublisher=\count526
-\c@savedorigpublisher=\count527
-\c@publisher=\count528
-\c@savedpublisher=\count529
-\c@language=\count530
-\c@savedlanguage=\count531
-\c@origlanguage=\count532
-\c@savedoriglanguage=\count533
-\c@pageref=\count534
-\c@savedpageref=\count535
+\c@afterword=\count474
+\c@savedafterword=\count475
+\c@annotator=\count476
+\c@savedannotator=\count477
+\c@author=\count478
+\c@savedauthor=\count479
+\c@bookauthor=\count480
+\c@savedbookauthor=\count481
+\c@commentator=\count482
+\c@savedcommentator=\count483
+\c@editor=\count484
+\c@savededitor=\count485
+\c@editora=\count486
+\c@savededitora=\count487
+\c@editorb=\count488
+\c@savededitorb=\count489
+\c@editorc=\count490
+\c@savededitorc=\count491
+\c@foreword=\count492
+\c@savedforeword=\count493
+\c@holder=\count494
+\c@savedholder=\count495
+\c@introduction=\count496
+\c@savedintroduction=\count497
+\c@namea=\count498
+\c@savednamea=\count499
+\c@nameb=\count500
+\c@savednameb=\count501
+\c@namec=\count502
+\c@savednamec=\count503
+\c@translator=\count504
+\c@savedtranslator=\count505
+\c@shortauthor=\count506
+\c@savedshortauthor=\count507
+\c@shorteditor=\count508
+\c@savedshorteditor=\count509
+\c@labelname=\count510
+\c@savedlabelname=\count511
+\c@institution=\count512
+\c@savedinstitution=\count513
+\c@lista=\count514
+\c@savedlista=\count515
+\c@listb=\count516
+\c@savedlistb=\count517
+\c@listc=\count518
+\c@savedlistc=\count519
+\c@listd=\count520
+\c@savedlistd=\count521
+\c@liste=\count522
+\c@savedliste=\count523
+\c@listf=\count524
+\c@savedlistf=\count525
+\c@location=\count526
+\c@savedlocation=\count527
+\c@organization=\count528
+\c@savedorganization=\count529
+\c@origlocation=\count530
+\c@savedoriglocation=\count531
+\c@origpublisher=\count532
+\c@savedorigpublisher=\count533
+\c@publisher=\count534
+\c@savedpublisher=\count535
+\c@language=\count536
+\c@savedlanguage=\count537
+\c@origlanguage=\count538
+\c@savedoriglanguage=\count539
+\c@pageref=\count540
+\c@savedpageref=\count541
 \shorthandwidth=\skip76
 \shortjournalwidth=\skip77
 \shortserieswidth=\skip78
@@ -1215,19 +1231,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-\c@textcitecount=\count536
-\c@textcitetotal=\count537
-\c@textcitemaxnames=\count538
-\c@biburlbigbreakpenalty=\count539
-\c@biburlbreakpenalty=\count540
-\c@biburlnumpenalty=\count541
-\c@biburlucpenalty=\count542
-\c@biburllcpenalty=\count543
+\c@textcitecount=\count542
+\c@textcitetotal=\count543
+\c@textcitemaxnames=\count544
+\c@biburlbigbreakpenalty=\count545
+\c@biburlbreakpenalty=\count546
+\c@biburlnumpenalty=\count547
+\c@biburlucpenalty=\count548
+\c@biburllcpenalty=\count549
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count544
+\c@smartand=\count550
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -1237,8 +1253,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count545
-\c@bbx:relatedtotal=\count546
+\c@bbx:relatedcount=\count551
+\c@bbx:relatedtotal=\count552
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -1280,9 +1296,9 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@upperbox=\box144
 \tcb@lowerbox=\box145
 \tcb@phantombox=\box146
-\c@tcbbreakpart=\count547
-\c@tcblayer=\count548
-\c@tcolorbox@number=\count549
+\c@tcbbreakpart=\count553
+\c@tcblayer=\count554
+\c@tcolorbox@number=\count555
 \l__tcobox_tmpa_box=\box147
 \l__tcobox_tmpa_dim=\dimen392
 \tcb@temp=\box148
@@ -1296,26 +1312,26 @@ Style option: `fancybox' v1.4 <2010/05/15> (tvz)
 \@fancybox=\box152
 \shadowsize=\dimen393
 \@Sbox=\box153
-\do@VerbBox=\toks56
-\the@fancyput=\toks57
-\this@fancyput=\toks58
-\EndVerbatimTokens=\toks59
+\do@VerbBox=\toks57
+\the@fancyput=\toks58
+\this@fancyput=\toks59
+\EndVerbatimTokens=\toks60
 \Verbatim@Outfile=\write7
 \Verbatim@Infile=\read7
 ) (C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2024/02/20 v1.0g Color table columns (DPC)
-\everycr=\toks60
+\everycr=\toks61
 \minrowclearance=\skip90
-\rownum=\count550
+\rownum=\count556
 ) (C:\Program Files\MiKTeX\tex/latex/stackengine\stackengine.sty
 Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient ways
  (C:\Program Files\MiKTeX\tex/latex/listofitems\listofitems.sty (C:\Program Files\MiKTeX\tex/generic/listofitems\listofitems.tex
-\loi_cnt_foreach_nest=\count551
-\loi_nestcnt=\count552
+\loi_cnt_foreach_nest=\count557
+\loi_nestcnt=\count558
 )
 Package: listofitems 2024/03/09 v1.65 Grab items in lists using user-specified sep char (CT)
 )
-\c@@stackindex=\count553
+\c@@stackindex=\count559
 \@boxshift=\skip91
 \stack@tmplength=\skip92
 \temp@stkl=\skip93
@@ -1326,7 +1342,7 @@ Package: listofitems 2024/03/09 v1.65 Grab items in lists using user-specified s
 \se@backgroundbox=\box157
 \stackedbox=\box158
 \@centerbox=\box159
-\c@ROWcellindex@=\count554
+\c@ROWcellindex@=\count560
 ) (C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip95
@@ -1344,37 +1360,37 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
  (C:\Program Files\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
  (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
-\t@pgfplots@toka=\toks61
-\t@pgfplots@tokb=\toks62
-\t@pgfplots@tokc=\toks63
+\t@pgfplots@toka=\toks62
+\t@pgfplots@tokb=\toks63
+\t@pgfplots@tokc=\toks64
 \pgfplots@tmpa=\dimen394
-\c@pgfplots@coordindex=\count555
-\c@pgfplots@scanlineindex=\count556
+\c@pgfplots@coordindex=\count561
+\c@pgfplots@scanlineindex=\count562
  (C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
-\t@pgf@toka=\toks64
-\t@pgf@tokb=\toks65
-\t@pgf@tokc=\toks66
+\t@pgf@toka=\toks65
+\t@pgf@tokb=\toks66
+\t@pgf@tokc=\toks67
 (C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count557
+\c@pgfplotsarray@tmp=\count563
 ) (C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count558
-\t@pgfplotstable@a=\toks67
+\c@pgfplotstable@counta=\count564
+\t@pgfplotstable@a=\toks68
 ) (C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count559
+\c@pgfplotslibrarysurf@no=\count565
  (C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
 \pgfdecoratedcompleteddistance=\dimen395
 \pgfdecoratedremainingdistance=\dimen396
 \pgfdecoratedinputsegmentcompleteddistance=\dimen397
 \pgfdecoratedinputsegmentremainingdistance=\dimen398
 \pgf@decorate@distancetomove=\dimen399
-\pgf@decorate@repeatstate=\count560
+\pgf@decorate@repeatstate=\count566
 \pgfdecorationsegmentamplitude=\dimen400
 \pgfdecorationsegmentlength=\dimen401
 )
 \tikz@lib@dec@box=\box162
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count561
+\pgfplots@numplots=\count567
 \pgfplots@xmin@reg=\dimen402
 \pgfplots@xmax@reg=\dimen403
 \pgfplots@ymin@reg=\dimen404
@@ -1397,11 +1413,11 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )) (C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count562
+\c@r@tfl@t=\count568
 \rotFPtop=\skip104
 \rotFPbot=\skip105
 \rot@float@box=\box163
-\rot@mess@toks=\toks68
+\rot@mess@toks=\toks69
 ) (C:\Program Files\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 ) (C:\Program Files\MiKTeX\tex/latex/tools\hhline.sty
@@ -1412,18 +1428,18 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \LTright=\skip107
 \LTpre=\skip108
 \LTpost=\skip109
-\LTchunksize=\count563
+\LTchunksize=\count569
 \LTcapwidth=\dimen408
 \LT@head=\box164
 \LT@firsthead=\box165
 \LT@foot=\box166
 \LT@lastfoot=\box167
 \LT@gbox=\box168
-\LT@cols=\count564
-\LT@rows=\count565
-\c@LT@tables=\count566
-\c@LT@chunks=\count567
-\LT@p@ftn=\toks69
+\LT@cols=\count570
+\LT@rows=\count571
+\c@LT@tables=\count572
+\c@LT@chunks=\count573
+\LT@p@ftn=\toks70
 ) (C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen409
@@ -1436,18 +1452,18 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen416
 \cmidrulekern=\dimen417
 \defaultaddspace=\dimen418
-\@cmidla=\count568
-\@cmidlb=\count569
+\@cmidla=\count574
+\@cmidlb=\count575
 \@aboverulesep=\dimen419
 \@belowrulesep=\dimen420
-\@thisruleclass=\count570
-\@lastruleclass=\count571
+\@thisruleclass=\count576
+\@lastruleclass=\count577
 \@thisrulewidth=\dimen421
 ) (C:\Program Files\MiKTeX\tex/latex/multirow\bigstrut.sty
 Package: bigstrut 2021/03/15 v2.8 Provide larger struts in tabulars
 ) (C:\Program Files\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
-\@enLab=\toks70
+\@enLab=\toks71
 ) (C:\Program Files\MiKTeX\tex/latex/cleveref\cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
 Package cleveref Info: `hyperref' support loaded on input line 2370.
@@ -1463,18 +1479,18 @@ LaTeX Info: Redefining \labelcref on input line 2370.
 LaTeX Info: Redefining \labelcpageref on input line 2370.
 Package cleveref Info: `listings' support loaded on input line 3131.
 )) (C:\Program Files\MiKTeX\tex/latex/braket\braket.sty)
-
-Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
-(biblatex)                Loading 'csquotes' recommended.
-
-\@quotelevel=\count572
-\@quotereset=\count573
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 10.
-(C:\Program Files\MiKTeX\tex/latex/lm\t1lmr.fd
+ (C:\Program Files\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (tesis.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
 )
-No file Proyecto_Tesis_Eduardo_Delgadillo.aux.
-\openout1 = `Proyecto_Tesis_Eduardo_Delgadillo.aux'.
+\openout1 = `tesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -1494,6 +1510,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1502,15 +1519,15 @@ LaTeX Font Info:    ... okay on input line 10.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(45.52458pt, 523.24583pt, 45.52458pt)
-* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* h-part:(L,W,R)=(71.13188pt, 486.25761pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=523.24583pt
-* \textheight=611.15898pt
-* \oddsidemargin=-26.7454pt
-* \evensidemargin=-26.7454pt
-* \topmargin=-15.36449pt
+* \textwidth=486.25761pt
+* \textheight=639.61174pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-29.59087pt
 * \headheight=71.13188pt
 * \headsep=15.0pt
 * \topskip=12.0pt
@@ -1532,17 +1549,17 @@ LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count574
+\scratchcounter=\count578
 \scratchdimen=\dimen422
 \scratchbox=\box169
-\nofMPsegments=\count575
-\nofMParguments=\count576
-\everyMPshowfont=\toks71
-\MPscratchCnt=\count577
+\nofMPsegments=\count579
+\nofMParguments=\count580
+\everyMPshowfont=\toks72
+\MPscratchCnt=\count581
 \MPscratchDim=\dimen423
-\MPnumerator=\count578
-\makeMPintoPDFobject=\count579
-\everyMPtoPDFconversion=\toks72
+\MPnumerator=\count582
+\makeMPintoPDFobject=\count583
+\everyMPtoPDFconversion=\toks73
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1568,7 +1585,7 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 10.
-\c@lstlisting=\count580
+\c@lstlisting=\count584
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1579,8 +1596,9 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 10.
+ (tesis.out) (tesis.out)
 \@outlinefile=\write9
-\openout9 = `Proyecto_Tesis_Eduardo_Delgadillo.out'.
+\openout9 = `tesis.out'.
 
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
@@ -1590,17 +1608,17 @@ File: spanish.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout6 = `Proyecto_Tesis_Eduardo_Delgadillo.bcf'.
+\openout6 = `tesis.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Proyecto_Tesis_Eduardo_Delgadillo.bbl' found.
- (Proyecto_Tesis_Eduardo_Delgadillo.bbl)
+Package biblatex Info: ... file 'tesis.bbl' found.
+ (tesis.bbl)
 Package biblatex Info: Reference section=0 on input line 10.
 Package biblatex Info: Reference segment=0 on input line 10.
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
 
-<images/EscudoUN.png, id=6, 202.356pt x 82.8696pt>
+<images/EscudoUN.png, id=58, 202.356pt x 82.8696pt>
 File: images/EscudoUN.png Graphic file (type png)
 <use images/EscudoUN.png>
 Package pdftex.def Info: images/EscudoUN.png  used on input line 20.
@@ -1649,10 +1667,46 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.56 \end{titlepage}
-                     [1]
-No file Proyecto_Tesis_Eduardo_Delgadillo.toc.
+                     [1] (tesis.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
+ (C:\Program Files\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
+ (C:\Program Files\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
+ (C:\Program Files\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
+ (C:\Program Files\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+esvect on input line 4.
+ (C:\Program Files\MiKTeX\tex/latex/esvect\uesvect.fd
+File: uesvect.fd 
+))
 \tf@toc=\write10
-\openout10 = `Proyecto_Tesis_Eduardo_Delgadillo.toc'.
+\openout10 = `tesis.toc'.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
@@ -1665,69 +1719,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.102 
        [1] [2]
-
-d:/GitHub/Projects_Private/Tex/Proyecto de tesis/Proyecto_Tesis_Eduardo_Delgadillo.tex:142: LaTeX Error: Unicode character ⋆ (U+22C6)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.142 \end
-          {document}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-d:/GitHub/Projects_Private/Tex/Proyecto de tesis/Proyecto_Tesis_Eduardo_Delgadillo.tex:142: Misplaced alignment tab character &.
-<argument> A&
-             A
-l.142 \end
-          {document}
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 141.
-(C:\Program Files\MiKTeX\tex/latex/lm\t1lmtt.fd
+ (C:\Program Files\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 141.
- (C:\Program Files\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 141.
- (C:\Program Files\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 141.
- (C:\Program Files\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 141.
- (C:\Program Files\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 141.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 141.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 141.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 141.
- (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 141.
- (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+esvect on input line 141.
- (C:\Program Files\MiKTeX\tex/latex/esvect\uesvect.fd
-File: uesvect.fd 
-) [3] (Proyecto_Tesis_Eduardo_Delgadillo.aux
+Overfull \hbox (24.41682pt too wide) in paragraph at lines 142--142
+\T1/lmtt/m/n/12 115917$[][]\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / www . sciencedirect . com / science / article / pii / S0019103523004967$[][]\T1/lmr/m/n/12 . 
+ []
+
+[3] (tesis.aux
 LaTeX Info: Redefining \sptext on input line 8.
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
@@ -1736,39 +1736,24 @@ LaTeX Info: Redefining \% on input line 8.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `Proyecto_Tesis_Eduardo_Delgadillo.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Proyecto_Tesis_Eduardo_Delgadillo.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  8D704669DCB66FF63793ED4456AE9C82;1986.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Proyecto_Tesis_Eduardo_Delgadillo
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'Proyecto_Tesis_Eduardo_Delgadillo.run.xml'.
-\openout1 = `Proyecto_Tesis_Eduardo_Delgadillo.run.xml'.
+Package rerunfilecheck Info: File `tesis.out' has not changed.
+(rerunfilecheck)             Checksum: 8D704669DCB66FF63793ED4456AE9C82;1986.
+Package logreq Info: Writing requests to 'tesis.run.xml'.
+\openout1 = `tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59056 strings out of 474424
- 1309242 string characters out of 5751555
- 2317909 words of memory out of 5000000
- 80427 multiletter control sequences out of 15000+600000
+ 59646 strings out of 474424
+ 1318812 string characters out of 5751555
+ 2338575 words of memory out of 5000000
+ 81001 multiletter control sequences out of 15000+600000
  600058 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 138i,11n,139p,2397b,1826s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 138i,11n,139p,793b,1922s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Proyecto_Tesis_Eduardo_Delgadillo.pdf (6 pages, 212476 bytes).
+Output written on tesis.pdf (6 pages, 219641 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 157 PDF objects out of 1000 (max. 8388607)
  26 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 122 words of extra memory for PDF output out of 10000 (max. 10000000)
 

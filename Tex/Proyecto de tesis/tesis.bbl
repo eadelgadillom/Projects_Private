@@ -58,8 +58,8 @@
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{A&A}
-      \field{title}{CIGALE: a python Code Investigating GALaxy Emission⋆}
+      \field{journaltitle}{A}
+      \field{title}{CIGALE: a python Code Investigating GALaxy Emission}
       \field{volume}{622}
       \field{year}{2019}
       \field{pages}{A103}
@@ -98,7 +98,7 @@
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{60.16985}
+      \field{isbn}{6016985}
       \field{series}{Department of Astronomy, University of Manchester}
       \field{title}{Physics and Astronomy of the Moon}
       \field{year}{1961}
@@ -200,7 +200,6 @@
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The permanently shadowed regions (PSRs) at the lunar poles without direct solar illumination maintain low temperatures throughout the year, making them optimal environments for the preservation of water ice. This paper investigates the diurnal and seasonal temperature variations of the PSRs within craters at the lunar south pole. The craters de Gerlache, Shoemaker, Amundsen, and Wiechert E are selected to explore how latitudes and shapes impact PSR temperature. Using the ray tracing approach, the shadow effect of terrain on the scattered sunlight and thermal radiation is calculated. PSR temperatures are simulated with the one-dimensional heat conduction equation. The thermal emissivity of the lunar surface is studied. Simulations with anisotropic emissivity are closer to the Diviner data in PSRs than the simulations with isotropic emissivity. In addition, by comparing the simulations to the Diviner data, it is found that the thermal conductivity at the extremely low temperatures in PSRs might be lower than that at high temperatures outside the PSRs. Simulations of the selected craters are used to study the influence of polar day phenomena occurring at high-latitude craters during the summer and the effect of direct solar illumination at the floors of low-latitude craters on the temperature distribution of PSRs. The influence of crater shape is analyzed as well by investigating the temperature distributions within PSRs of flat-floored and bowl-shaped craters. With the analysis of the heat flux propagation distances, emission angles, and incident angles, this study quantitatively elucidates the spatial and temporal variations in PSR temperatures. To explain why the Diviner data are lower than the simulation results at the solar-illuminated crater walls, an undulating rough surface is generated. The locations of the Sun and the observer on opposite sides of the rough surface may decrease the observed infrared brightness temperature according to the simulations. The PSR peak temperatures simulated with the anisotropic emissivity and thermal conductivity for PSRs are used to search for low-temperature areas suitable for preserving water ice within de Gerlache and Shoemaker.}
       \field{issn}{0019-1035}
       \field{journaltitle}{Icarus}
       \field{title}{Simulation of the temperatures in the permanently shadowed region of the Moon's south pole and data validation}

@@ -41,13 +41,13 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="1">
+  <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>Proyecto_Tesis_Eduardo_Delgadillo.bcf</file>
+      <file>tesis.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>Proyecto_Tesis_Eduardo_Delgadillo.bbl</file>
+      <file>tesis.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -60,23 +60,23 @@
       <file>spanish.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>Proyecto_Tesis_Eduardo_Delgadillo</infile>
+      <infile>tesis</infile>
     </cmdline>
     <input>
-      <file>Proyecto_Tesis_Eduardo_Delgadillo.bcf</file>
+      <file>tesis.bcf</file>
     </input>
     <output>
-      <file>Proyecto_Tesis_Eduardo_Delgadillo.bbl</file>
+      <file>tesis.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>Proyecto_Tesis_Eduardo_Delgadillo.bbl</file>
+      <file>tesis.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>Proyecto_Tesis_Eduardo_Delgadillo.bcf</file>
+      <file>tesis.bcf</file>
     </requires>
     <requires type="editable">
       <file>ref.bib</file>
