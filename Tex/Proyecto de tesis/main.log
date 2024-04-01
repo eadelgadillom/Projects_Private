@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.31)  31 MAR 2024 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.31)  1 APR 2024 00:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1051,7 +1051,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 105.
 Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 105.
 
-Package hyperref Info: Option `bookmarksopen' set `false' on input line 105.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 105.
 (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
  (C:\Program Files\MiKTeX\tex/latex/logreq\logreq.sty
@@ -1448,7 +1448,7 @@ Package: bigstrut 2021/03/15 v2.8 Provide larger struts in tabulars
 ) (C:\Program Files\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
 \@enLab=\toks70
-)) (C:\Program Files\MiKTeX\tex/latex/cleveref\cleveref.sty
+) (C:\Program Files\MiKTeX\tex/latex/cleveref\cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
 Package cleveref Info: `hyperref' support loaded on input line 2370.
 LaTeX Info: Redefining \cref on input line 2370.
@@ -1462,7 +1462,7 @@ LaTeX Info: Redefining \Cpagerefrange on input line 2370.
 LaTeX Info: Redefining \labelcref on input line 2370.
 LaTeX Info: Redefining \labelcpageref on input line 2370.
 Package cleveref Info: `listings' support loaded on input line 3131.
-)
+)) (C:\Program Files\MiKTeX\tex/latex/braket\braket.sty)
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
@@ -1604,7 +1604,7 @@ Package biblatex Info: Reference section=0 on input line 10.
 Package biblatex Info: Reference segment=0 on input line 10.
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
 
-<images/EscudoUN.png, id=34, 202.356pt x 82.8696pt>
+<images/EscudoUN.png, id=46, 202.356pt x 82.8696pt>
 File: images/EscudoUN.png Graphic file (type png)
 <use images/EscudoUN.png>
 Package pdftex.def Info: images/EscudoUN.png  used on input line 20.
@@ -1703,15 +1703,28 @@ l.62 \newpage
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.100 \subsection
-                 {Estado del Arte} [1]
+l.102 
+       [1]
 
-LaTeX Warning: Citation 'watson53' on page 2 undefined on input line 103.
+LaTeX Warning: Citation 'Whittet2022DustIT' on page 2 undefined on input line 112.
 
 
-LaTeX Warning: Empty bibliography on input line 105.
+LaTeX Warning: Citation 'mathis1977size' on page 2 undefined on input line 123.
 
-[2] (main.aux
+[2]
+
+LaTeX Warning: Citation 'PhysicsandAstronomyMoon' on page 3 undefined on input line 125.
+
+
+LaTeX Warning: Citation 'Zhengling2024' on page 3 undefined on input line 127.
+
+
+LaTeX Warning: Citation 'Boquien2019' on page 3 undefined on input line 129.
+
+
+LaTeX Warning: Empty bibliography on input line 134.
+
+[3] (main.aux
 LaTeX Info: Redefining \sptext on input line 8.
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
@@ -1725,7 +1738,7 @@ L3 programming layer <2024-03-14>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7EBAE0D637B5ACBC2031439CB2F56B8A;922.
+(rerunfilecheck)             Checksum: 1DD4D6305AB16FA153A0D3620BA4E689;1470.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -1736,17 +1749,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58922 strings out of 474424
- 1305860 string characters out of 5751554
- 2316713 words of memory out of 5000000
- 80310 multiletter control sequences out of 15000+600000
+ 58966 strings out of 474424
+ 1306583 string characters out of 5751554
+ 2318096 words of memory out of 5000000
+ 80346 multiletter control sequences out of 15000+600000
  592683 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  138i,11n,139p,792b,1922s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmro12.pfb>
-Output written on main.pdf (5 pages, 135279 bytes).
+Output written on main.pdf (6 pages, 142388 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 74 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
