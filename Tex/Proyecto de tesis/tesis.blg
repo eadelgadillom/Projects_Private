@@ -1,16 +1,16 @@
-[0] Config.pm:308> INFO - This is Biber 2.20
-[0] Config.pm:311> INFO - Logfile is 'tesis.blg'
-[319] biber-MSWIN64:340> INFO - === 
-[420] Biber.pm:420> INFO - Reading 'tesis.bcf'
-[828] Biber.pm:994> INFO - Found 5 citekeys in bib section 0
-[886] Biber.pm:4463> INFO - Processing section 0
-[928] Biber.pm:4654> INFO - Looking for bibtex file 'ref.bib' for section 0
-[1082] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1109] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
-[1338] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1338] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1339] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[1367] bbl.pm:676> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
-[1378] bbl.pm:779> INFO - Output to tesis.bbl
-[1378] Biber.pm:131> WARN - ISBN '6016985' in entry 'PhysicsandAstronomyMoon' is invalid - run biber with '--validate_datamodel' for details.
-[1379] Biber.pm:133> INFO - WARNINGS: 1
+[1] Config.pm:308> INFO - This is Biber 2.20
+[2] Config.pm:311> INFO - Logfile is 'tesis.blg'
+[416] biber-MSWIN64:340> INFO - === 
+[520] Biber.pm:420> INFO - Reading 'tesis.bcf'
+[902] Biber.pm:994> INFO - Found 5 citekeys in bib section 0
+[994] Biber.pm:4463> INFO - Processing section 0
+[1037] Biber.pm:4654> INFO - Looking for bibtex file 'ref.bib' for section 0
+[1155] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1194] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[1431] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1431] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1432] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[1470] bbl.pm:676> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
+[1480] bbl.pm:779> INFO - Output to tesis.bbl
+[1481] Biber.pm:131> WARN - ISBN '6016985' in entry 'PhysicsandAstronomyMoon' is invalid - run biber with '--validate_datamodel' for details.
+[1481] Biber.pm:133> INFO - WARNINGS: 1
