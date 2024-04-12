@@ -1,0 +1,57 @@
+\begin{thebibliography}{1}
+
+\bibitem{Seidel}
+Ewald~Schachinger Benjamin A.~Stickler.
+\newblock Basic concepts in computational physics.
+\newblock {\em Institute of Theoretical and Computational Physics}, (11.2 The
+  Poisson equation):148, 2015.
+
+\bibitem{jacobi}
+J~Burkardt.
+\newblock Jacobi iterative solution of poisson’s equation in 1d.
+\newblock 2011.
+
+\bibitem{astro}
+Baumgardt H. Kroupa P. Grebel E. K. Hilker M.-& Jordi~K. Haghi, H.
+\newblock Testing fundamental physics with distant star clusters: theoretical
+  models for pressure-supported stellar systems.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  395(3):1549--1557, 2009.
+
+\bibitem{astro1}
+D.~Lynden-Bell.
+\newblock Stellar dynamics: Exact solution of the self-gravitation equation.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  123(5):447--458, 1961.
+
+\bibitem{poissonGauss}
+&~Hanawa~T Matsumoto, T.
+\newblock A fast algorithm for solving the poisson equation on a nested grid.
+\newblock {\em The Astrophysical Journal}, 583(1):296--307, 2003.
+
+\bibitem{fdm}
+J.~R. Nagel.
+\newblock Solving the generalized poisson equation using the finite-difference
+  method (fdm).
+\newblock {\em Lecture Notes, Dept. of Electrical and Computer Engineering,
+  University of Utah.}, 2011.
+
+\bibitem{laplacian}
+J.~R. Nagel.
+\newblock Numerical solutions to poisson equations using the finite-difference
+  method [education column].
+\newblock {\em IEEE antennas and propagation magazine}, 56(4):209--224, 2014.
+
+\bibitem{plummer}
+&~Shull J.~M. Spitzer~Jr, L.
+\newblock Random gravitational encounters and the evolution of spherical
+  systems. vi-plummer's model.
+\newblock {\em The Astrophysical Journal}, 200(1):339--342, 1975.
+
+\bibitem{astro2}
+K.~Takahashi.
+\newblock Fokker-planck models of star clusters with anisotropic velocity
+  distributions. i. pre-collapse evolution.
+\newblock {\em arXiv preprint astro-ph/9507040}.
+
+\end{thebibliography}
