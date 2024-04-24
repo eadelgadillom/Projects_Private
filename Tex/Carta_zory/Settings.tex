@@ -1,0 +1,148 @@
+%All the packages the project needs
+%--------------------------------------------
+%Margins
+\usepackage[top=1.5cm,
+bottom=1.5cm,
+left=2.5cm,
+right=2.5cm,
+headsep=10pt,
+headheight=25pt,
+letterpaper,
+includehead,includefoot]{geometry} 
+%-------------------------------------------
+
+%-------------------------------------------
+%Codification and language
+%Document language
+\usepackage[spanish,es-noshorthands]{babel}
+% Required for including letters with accents
+\usepackage[utf8]{inputenc} 
+% Use 8-bit encoding that has 256 glyphs
+\usepackage[T1]{fontenc}
+%-------------------------------------------
+
+%-------------------------------------------
+%Colours
+\usepackage{color}
+\usepackage{xcolor}
+%-------------------------------------------
+
+%-------------------------------------------
+%Fonts and text
+%Add a new Font
+\usepackage{addfont}
+\addfont{OT1}{rsfs10}{\rsfs}
+%Allows to modify the font of a section
+\usepackage{sectsty}
+%Latin Modern fonts - Allows to resize the font
+\usepackage{lmodern}
+%Allows to write code
+\usepackage{verbatim}
+%Dumb text
+\usepackage{lipsum}
+%Include currency symbols
+\usepackage{textcomp} 
+%-------------------------------------------
+
+%-------------------------------------------
+%Pictures and graphics
+%Allows to include images
+\usepackage{graphicx}
+\usepackage{sidecap}
+%Most powerful image package
+\usepackage{tikz}
+\usetikzlibrary{babel}
+\usetikzlibrary{positioning}
+%Sometimes used images packages
+
+\usepackage{pst-all}
+\usepackage{pstricks}
+%Allows to position figures inside a paragraph
+\usepackage{wrapfig}
+%Information needed
+%https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions
+%-------------------------------------------
+%-------------------------------------------
+%Math packages
+\usepackage{mathtools}
+%\usepackage{unicode-math}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+%Nice cancelations arrows
+\usepackage{cancel}
+%Vector arrows on a character
+\usepackage{esvect}
+%-------------------------------------------
+
+%-------------------------------------------
+%Table and listing packages
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{diagbox}
+\usepackage{listings}
+\usepackage[shortlabels]{enumitem} 
+%Differents images and tables in the same space
+\usepackage{subcaption}
+%Use to places the float at precisely the location in the LaTeX code´and other stuff
+\usepackage{float}
+%Flexible tables
+\usepackage{tabu}
+\usepackage{multicol}
+%-------------------------------------------
+
+%-------------------------------------------
+%Refs and cites
+%\usepackage{achemso}
+%\usepackage{natbib}
+\usepackage{hyperref}
+\hypersetup{
+colorlinks=true,
+urlcolor= blue,
+citecolor=blue,
+linkcolor= black,
+bookmarks=true,
+bookmarksopen=true,
+}
+\usepackage{csquotes}
+\usepackage[backend=biber]{biblatex}
+%\usepackage{cite}
+%-------------------------------------------
+
+%-------------------------------------------
+%Boxes
+\usepackage{tcolorbox}
+\usepackage{fancybox}
+\usepackage{colortbl}
+%-------------------------------------------
+
+%-------------------------------------------
+%Page style
+\usepackage[usestackEOL]{stackengine}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\newsavebox{\UNl}
+\newsavebox{\UNd}
+\setlength{\headheight}{2.5cm}
+\lhead{\usebox{\UNl}\usebox{\UNd}}
+\rhead{\slshape Proyecto de Tesis}
+\cfoot{}
+\rfoot{\thepage}
+\lfoot{\today}
+\renewcommand{\headrulewidth}{1pt}
+
+%-------------------------------------------
+
+%-------------------------------------------
+%others
+\usepackage{pgfplots,caption}
+\usepackage{comment}
+\usepackage{pdflscape}
+\usepackage{rotating}
+\usepackage{parskip}
+\usepackage{hhline}
+\usepackage{longtable,lscape}
+\usepackage{booktabs,bigstrut}
+\usepackage{enumerate}
+\usepackage{cleveref}
+\usepackage{braket}
